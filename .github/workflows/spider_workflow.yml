@@ -1,0 +1,38 @@
+name: Spider Workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 5"  # 每周五的0点
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      
+      - name: List files
+        run: ls -R | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
+
+      - name: Run Python script
+        run: |
+          cd ./spider
+          pip install -r requirements.txt
+          python spider.py
+
+      - name: Commit changes
+        if: ${{ success() }}
+        run: |
+          git config --local user.name "${{ github.actor }}"
+          git config --local user.email "${{ github.actor }}@gmail.com"
+          git remote set-url origin https://${{ github.repository_owner }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add -A
+          git commit -m "Add scraped data"
+          git push

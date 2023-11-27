@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <link rel="shortcut icon" href="favicon.ico">
+  <title>FitGirl Repacks 镜像库</title>
+  <link rel="stylesheet" href="inc/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>FitGirl Repacks 镜像库</h1>
+    <h4>更多信息访问 https://fitgirl-repacks.site/</h4>
+
+    <div class="icons">
+      <a href="https://github.com/iflycn/fitgirl_repacks" target="_blank"></a>
+      <span class="theme"></span>
+    </div>
+
+    <div id="search"></div>
+
+    <div id="dataContainer"></div>
+
+    <div id="pagination"></div>
+  </div>
+
+  <script src="inc/dexie.min.js"></script>
+  <script src="inc/xlsx.mini.min.js"></script>
+  <script>
+    const fileVersion = '{{lastupdated}}';
+    const fileURL = 'data/repacks-{{lastupdated}}.csv';
+  </script>
+  <script src="inc/script.js"></script>
+</body>
+
+</html>
