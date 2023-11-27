@@ -19,7 +19,14 @@ let currentPage = 1; // 当前页码
 
 // 主题切换
 const theme = document.querySelector('.theme');
-theme.addEventListener('click', function() {
+const isDarkTheme = () => {
+  return localStorage.getItem('fitgirl-repacks-theme') === 'dark';
+};
+
+isDarkTheme() && document.body.classList.add('dark');
+
+theme.addEventListener('click', function () {
+  localStorage.setItem('fitgirl-repacks-theme', isDarkTheme() || 'dark');
   document.body.classList.toggle('dark');
 });
 
