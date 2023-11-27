@@ -99,31 +99,33 @@ const showData = () => {
     const title = document.createElement('h3');
     title.classList.add('data-title');
     title.textContent = item[1];
+    dataBlock.appendChild(title);
 
     // 创建其他内容元素
     const time = document.createElement('p');
     time.classList.add('data-time');
     time.textContent = new Date(item[2]).toLocaleString();
+    dataBlock.appendChild(time);
 
     const magnetLink = document.createElement('a');
     magnetLink.classList.add('data-link');
     magnetLink.href = item[3];
     magnetLink.textContent = '磁力链接';
-
-    const description = document.createElement('div');
-    description.classList.add('data-info');
-    description.innerHTML = `<h4>打包说明:</h4>${formatText(item[4], 'li')}`;
-
-    const summary = document.createElement('div');
-    summary.classList.add('data-info');
-    summary.innerHTML = `<h4>游戏介绍:</h4>${formatText(item[5])}`;
-
-    // 将标题和其他内容添加到数据块中
-    dataBlock.appendChild(title);
-    dataBlock.appendChild(time);
     dataBlock.appendChild(magnetLink);
-    dataBlock.appendChild(description);
-    dataBlock.appendChild(summary);
+
+    if (item[4]) {
+      const description = document.createElement('div');
+      description.classList.add('data-info');
+      description.innerHTML = `<h4>打包说明:</h4>${formatText(item[4], 'li')}`;
+      dataBlock.appendChild(description);
+    }
+
+    if (item[5]) {
+      const summary = document.createElement('div');
+      summary.classList.add('data-info');
+      summary.innerHTML = `<h4>游戏介绍:</h4>${formatText(item[5])}`;
+      dataBlock.appendChild(summary);
+    }
 
     // 将数据块添加到容器中
     dataContainer.appendChild(dataBlock);
