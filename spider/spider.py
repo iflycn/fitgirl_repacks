@@ -17,7 +17,6 @@ for link in page_links:
     if page_text.isdigit():
         page_number = int(page_text)
         end_page = max(end_page, page_number)
-end_page = 3 # 测试时使用
 if end_page < start_page:
     print("\n未获取到有效页码，程序中止")
     os._exit(0)
