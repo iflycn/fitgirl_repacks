@@ -1,12 +1,12 @@
 ﻿/* 公用样式 */
 :root {
-  --color-primary: #0d6efd;
+  --color-primary: #0969da;
   --color-black: #000;
-  --color-gray: #666;
-  --color-light: #ccc;
   --color-white: #fff;
-  --color-background-light: #fafafa;
-  --color-background-dark: #060606;
+  --color-dark: #666;
+  --color-light: #ccc;
+  --color-block-dark: #060606;
+  --color-block-light: #f6f8fa;
 }
 
 * {
@@ -18,13 +18,18 @@
 }
 
 body {
+  --link-color: var(--color-primary);
+  --font-color: var(--color-black);
+  --background-color: var(--color-white);
+  --block-border-color: var(--color-light);
+  --block-background-color: var(--color-block-light);
   font-size: 16px;
-  color: var(--color-black);
-  background-color: var(--color-white);
+  color: var(--font-color);
+  background-color: var(--background-color);
 }
 
 a {
-  color: var(--color-primary);
+  color: var(--link-color);
 }
 
 /* 布局样式 */
@@ -76,7 +81,7 @@ a {
 #search {
   position: sticky;
   top: 0;
-  background-image: linear-gradient(var(--color-white) 70px, transparent);
+  background-image: linear-gradient(var(--background-color) 70px, transparent);
 }
 
 #search input {
@@ -86,18 +91,18 @@ a {
   line-height: 40px;
   font-size: 16px;
   text-align: center;
-  color: var(--color-black);
-  border: 1px solid var(--color-light);
+  color: var(--font-color);
+  border: 1px solid var(--block-border-color);
   border-radius: 20px;
-  background-color: var(--color-white);
+  background-color: var(--background-color);
 }
 
 /* 数据块样式 */
 .data-block {
   margin-bottom: 20px;
   padding: 20px;
-  border: 1px solid var(--color-light);
-  background-color: var(--color-background-light);
+  border: 1px solid var(--block-border-color);
+  background-color: var(--block-background-color);
   border-radius: 8px;
   overflow: hidden;
 }
@@ -137,17 +142,28 @@ a {
   padding: 2px 8px;
   min-width: 32px;
   line-height: 26px;
-  color: var(--color-black);
-  border: 1px solid var(--color-light);
+  color: var(--font-color);
+  border: 1px solid var(--block-border-color);
   border-radius: 4px;
-  background-color: var(--color-background-light);
+  background-color: var(--block-background-color);
+}
+
+#pagination button[disabled] {
+  color: var(--block-border-color);
+}
+
+#pagination button:not([disabled]):hover {
+  color: var(--link-color);
   cursor: pointer;
 }
 
 /* 暗色主题 */
 body.dark {
-  color: var(--color-white);
-  background-color: var(--color-black);
+  --link-color: var(--color-primary);
+  --font-color: var(--color-white);
+  --background-color: var(--color-black);
+  --block-border-color: var(--color-dark);
+  --block-background-color: var(--color-block-dark);
 }
 
 body.dark .icons a {
@@ -156,16 +172,4 @@ body.dark .icons a {
 
 body.dark .icons span {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUFSURBVGhD1ZlbqBVVGMePHq90MU1PSmn2IBpGoXWK8KEUu5BFnDQDn3op9BTVg4gWvUSvYUSUVuKlqIeyAqlAEAoxK0q0TMuHihDLaxkRmXqOv/+a/xn3uGdfz5p9Tj/4s2a+75vvW7P3zKxZa9qKoqen5150Av3Y29t7mc3/H+j4QjreS3ucZqzNAw8d6qRDY7xbEeK6fAKH6zkB4jqIm+Hd+JB8KEVeRWfRszZXhJhGT+Bt9BfqtikudGIIyV93p07QTLErF2IWOVadGmdzLvjnoB7Hr7A5PiSfgA6pEGywORf884ndjbaiS2wug7h29KkSErcLjbSrGCiwzMV0Kd1lcxmEDEXD1NqUCzkeUT7B9jybi4M6wyn0jQu+YnNTkGIEObY712abi0e/FHoKXWRTU9Bv3VdXoRfRtTYPPHRMl894NNUa/AMZv2AHegitR9+iw+ikdQh9idag+9FoHxYXEj+NPkSdNtVEvy7xz6Hf2a4LYvcg3bwjnKYmxN+EPkaLbcpCsik4/3WBU2g1usLuXPDrXtivY5qBY3eg65wuF8ImEqN/rq9vP6FL7T4PvlE4lqAfFCjYPoged0gG7N3ojEObhhzHUZfTpuDS0+5J9GsSGWJ30zyIKv9zOHVJLEcabXXQGrtSsHXLFwvy/YcyYwpmncBn9useWoHqf+oRPBO9gDpsCrB/JzqrxDEh5xE0zWUC7M9Cr6Erbeof1NG/83NSMj7k3kbT7nLxocDzSanioMZCl4sLiS9HdT8qm4Uauu6HuGw8SPpwqFAwnIBeEme5bDxI+qZrFA61nnHZOJBTs7G9SfriodZ7Ll0bghegrhI9QI7b7Q6wPx770ZC9BVBrJ016H7A9pqR/aT9Rp06gbDTFptE4nYiwPRXbyeBsAdT6jma4y6uPsxNPFuxb5DyANIjo7VE6ivQ8Tk+A/cnoj+Sw4qHWhSegQVV9LO3nMbQu/D1obJ8wjkOZlyXFYPuNtiVQa4dLBzBp3pz2UVI/aS92SHUI1MxpD21LoNYml44HScOSSiug1lKXjQdJFzh/oVBHb6bTXTYe5NYKwoGkTHFQ4yOXjA/Jo84DLoT8ek3PjEH9gmTDvBlgX//CFypWBOR+w6VSsDW+UkcuPbYe5WDNWa+2OcD+THx/qmBMyKvxKLOGyv4ipOXGJTbVhuA70OfOq8Sr7UrBdh8Kk+wYkOsXlLlxMWtKuSuJCDHvo1vsLocYrUq8k4QnsL8JXe+QDNg1tdTSeb8gxz6asu8C2DT23Io+CYHA9hn0MpujHHYeHNPQKQdqUjHfrooQNx1t1TGNwnFC890JTlcRYvTy9r2P02Wdf1/gWIqWE1d1RbkUxXLMYrQd1VxmIeYf9AGa6xR1waF6ndF6bO4VEQWK3EgBreW8i3aivZZO7i30GMqsPAwIdLSdjtRcoyFmpOTdiiifN1sDnVqF9qG7bWoKOq7LT6uBWvi9x+ZiodAkFGZntOtsbgpS6FH5lXLB1yidAxQGBdeqGq3WNCfbXAYhuuluQBr4Kl4i+OeisNJHW8wXyj4ooOfyaRd7wuZc8GturbhjNFU/sxKz0bFaTJ5kc1zIr+s1PPNpNbkpH0xKIKbvO/ERmloncA0x4fWE7Zdsjgu5NTLehrahmjccMQ196CZmJbFb0M02FYNOxJtVafQEBh10Wh8idAJ/o6pf6gcldFo3/Ga0FvXrc2xl2trOAYYtjJw8NGIPAAAAAElFTkSuQmCC);
-}
-
-body.dark #search {
-  background-image: linear-gradient(var(--color-black) 70px, transparent);
-}
-
-body.dark #search input,
-body.dark .data-block,
-body.dark #pagination button {
-  color: var(--color-white);
-  border-color: var(--color-gray);
-  background-color: var(--color-background-dark);
 }
