@@ -1,6 +1,8 @@
 ﻿import os
 import csv
 import requests
+import time
+import random
 from bs4 import BeautifulSoup
 from datetime import datetime
 
@@ -24,6 +26,13 @@ if end_page < start_page:
 # 爬取数据
 data_list = []
 for page in range(start_page, end_page + 1):
+    # 每循环3次随机暂停
+    if page % 3 == 0:
+        pause_time = random.randint(3, 10)
+        print(f"\n暂停 {pause_time} 秒")
+        time.sleep(pause_time)
+
+    # 开始爬取数据
     print(f"\n正在爬取第 {page}/{end_page} 页")
     url = f"{site_url}/page/{page}"
     response = requests.get(url)
