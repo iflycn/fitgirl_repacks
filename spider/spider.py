@@ -25,19 +25,27 @@ if end_page < start_page:
 
 # 爬取数据
 data_list = []
+failed_attempts = 0
 for page in range(start_page, end_page + 1):
-    # 每循环3次随机暂停
-    if page % 3 == 0:
-        pause_time = random.randint(3, 10)
-        print(f"\n暂停 {pause_time} 秒")
-        time.sleep(pause_time)
-
     # 开始爬取数据
     print(f"\n正在爬取第 {page}/{end_page} 页")
     url = f"{site_url}/page/{page}"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
     articles = soup.find_all("article")
+
+    # 检查是否成功爬取到数据
+    if not articles:
+        failed_attempts += 1
+        if failed_attempts > 3:
+            print("\n已连续失败 3 次，结束爬取")
+            break
+        print("\n爬取数据失败，暂停 5 分钟后重试")
+        time.sleep(300)
+        page = page - 1
+        continue
+
+    # 解析爬取到的数据
     now_article = 0
     for article in articles:
         now_article += 1
@@ -57,6 +65,15 @@ for page in range(start_page, end_page + 1):
             data_list.append([article_id, article_title, article_time, article_link, article_description, article_content])
         else:
             print(f"× 抛弃第 {now_article}/{len(articles)} 条数据")
+
+    # 每循环3次随机暂停
+    if failed_attempts == 0 and page % 3 == 0:
+        pause_time = random.randint(3, 5)
+        print(f"\n暂停 {pause_time} 秒")
+        time.sleep(pause_time)
+
+    # 重置失败次数计数器
+    failed_attempts = 0
 
 # 读取上次更新条数
 config_file = "./config.txt"
