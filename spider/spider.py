@@ -104,6 +104,19 @@ if len(data_list) >= previous_count:
         f.write(str(len(data_list)))
     print(f"配置文件 {config_file} 已更新")
 
+    # 更新 README 文件
+    template_file = "./readme.txt"
+    md_file = "../README.md"
+    with open(template_file, "r", encoding="utf-8") as f:
+        template_content = f.read()
+    template_content = template_content.replace("{{lastupdated}}", f"{current_time[:4]}-{current_time[4:6]}-{current_time[6:8]}")
+    template_content = template_content.replace("{{datalength}}", str(len(data_list)))
+    for i in range(min(10, len(data_list))):
+        template_content = template_content.replace("{{articletitle}}", data_list[i][1], 1)
+    with open(md_file, "w", encoding="utf-8") as f:
+        f.write(template_content)
+    print(f"README 文件 {md_file} 已更新")
+
     # 更新 HTML 模板
     template_file = "./template.txt"
     html_file = "../index.htm"
