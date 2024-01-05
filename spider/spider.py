@@ -38,8 +38,8 @@ while start_page <= end_page:
     if not articles:
         failed_attempts += 1
         if failed_attempts > 3:
-            print("\n已连续失败 3 次，结束爬取")
-            break
+            print("\n已连续失败 3 次，程序中止")
+            os._exit(0)
         print("\n爬取数据失败，暂停 5 分钟后重试")
         time.sleep(300)
         continue
