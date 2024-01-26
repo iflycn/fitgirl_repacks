@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-01-19`，共 `3986` 款游戏。
-- Distant Sun
-- Cult of the Lamb: Sinful Edition – v1.3.2.341 + 18 DLCs + Bonus OST
-- House Builder – Build 15-01-2024/13176639 (Release)
-- Dakar Desert Rally: Deluxe Edition – v2.2.0 + 9 DLCs
-- Slay the Princess: Collector’s Edition – Build 13053843 + Supporters Pack DLC/Bonus
-- The Descent + Windows 7 Fix
-- Sovereign Syndicate: Digital Deluxe Edition – v1.0.19 + Bonus Content
-- Path of the Midnight Sun: Collector’s Edition – v2.0 + Bonus Content
-- Run Tekila Run! + Windows 7 Fix
-- The Hopebringer – v5.0
+最后更新时间 `2024-01-26`，共 `4003` 款游戏。
+- Assetto Corsa Competizione – v1.9.6 + 8 DLCs + Windows 7 Fix
+- Room231 + Windows 7 Fix
+- Boyfriend Dungeon – v1.3.7294 + TTRPG: Life On the Edge DLC
+- Rising Lords – v1.0.1.488
+- Stargate: Timekeepers – v1.00.22
+- Farmer’s Life – v1.0.8 (Harvester Update)
+- GRAVEN – v16512.0 (Release)
+- The Universim – v1.0.00.46017 (Release)
+- Monster Hunter Rise + Sunbreak Deluxe – v16.0.2.0/Denuvoless + 253 DLCs + Multiplayer
+- Arena Renovation – v1.0.163
 - ……
 
 ## 感谢
