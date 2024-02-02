@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-01-26`，共 `4003` 款游戏。
-- Assetto Corsa Competizione – v1.9.6 + 8 DLCs + Windows 7 Fix
-- Room231 + Windows 7 Fix
-- Boyfriend Dungeon – v1.3.7294 + TTRPG: Life On the Edge DLC
-- Rising Lords – v1.0.1.488
-- Stargate: Timekeepers – v1.00.22
-- Farmer’s Life – v1.0.8 (Harvester Update)
-- GRAVEN – v16512.0 (Release)
-- The Universim – v1.0.00.46017 (Release)
-- Monster Hunter Rise + Sunbreak Deluxe – v16.0.2.0/Denuvoless + 253 DLCs + Multiplayer
-- Arena Renovation – v1.0.163
+最后更新时间 `2024-02-02`，共 `4017` 款游戏。
+- SnowRunner: Premium Edition – v28 (Season 12 Update) + 34 DLCs + Chill Nature Beats Soundtrack
+- Realm of Dread + Windows 7 Fix
+- Eastward: Between Two Worlds Bundle – v1.2.1 + Octopia DLC + Bonus Soundtrack
+- Dungeon Legends 2: Tale of Light and Shadow – v1.08_26.01.24
+- Demonologist – v1.3.0 + Windows 7 Fix
+- PROJECT 13
+- The Leviathan’s Fantasy – v1.6.0
+- The Mine
+- I’m Counting to 6… + Windows 7 Fix
+- BULLRING
 - ……
 
 ## 感谢
