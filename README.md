@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-02-02`，共 `4017` 款游戏。
-- SnowRunner: Premium Edition – v28 (Season 12 Update) + 34 DLCs + Chill Nature Beats Soundtrack
-- Realm of Dread + Windows 7 Fix
-- Eastward: Between Two Worlds Bundle – v1.2.1 + Octopia DLC + Bonus Soundtrack
-- Dungeon Legends 2: Tale of Light and Shadow – v1.08_26.01.24
-- Demonologist – v1.3.0 + Windows 7 Fix
-- PROJECT 13
-- The Leviathan’s Fantasy – v1.6.0
-- The Mine
-- I’m Counting to 6… + Windows 7 Fix
-- BULLRING
+最后更新时间 `2024-02-09`，共 `4033` 款游戏。
+- River Town Factory – v1.0.1.0207.1 (Release)
+- Axiom of Maria + Bonus Soundtrack
+- CLeM
+- Empyrion: Galactic Survival – Complete Edition, v1.11.4448 + Dark Faction DLC
+- Don’t Pee – v1.0.2 + Windows 7 Fix
+- Way of the Hunter: Elite Edition – v1.25 + 6 DLCs + Windows 7 Fix
+- Nexus PI
+- Chronique des Silencieux – v3.7.7f
+- Y. Village – The Visitors
+- Steel Echoes
 - ……
 
 ## 感谢
