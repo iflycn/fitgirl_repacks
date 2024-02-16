@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-02-09`，共 `4033` 款游戏。
-- River Town Factory – v1.0.1.0207.1 (Release)
-- Axiom of Maria + Bonus Soundtrack
-- CLeM
-- Empyrion: Galactic Survival – Complete Edition, v1.11.4448 + Dark Faction DLC
-- Don’t Pee – v1.0.2 + Windows 7 Fix
-- Way of the Hunter: Elite Edition – v1.25 + 6 DLCs + Windows 7 Fix
-- Nexus PI
-- Chronique des Silencieux – v3.7.7f
-- Y. Village – The Visitors
-- Steel Echoes
+最后更新时间 `2024-02-16`，共 `4049` 款游戏。
+- AEW: Fight Forever – Bring the Boom Edition, v1.09 + 11 DLCs
+- Dungeons 4: Deluxe Edition – v1.3 + DLC/Bonus Content + Windows 7 Fix
+- Lies of P: Deluxe Edition – v1.5.0.0 Hotfix (Denuvoless) + 2 DLCs + Bonus Soundtrack + Windows 7 Fix
+- Tomb Raider I-III Remastered Starring Lara Croft, v1.0 (Steam)/v1.01-savefix2 (GOG) + Windows 7 Fix
+- SpellForce: Conquest of Eo – v01.04.28842 + Demon Scourge DLC
+- Tortuga: A Pirate’s Tale – v1.2.0.59274
+- Timeloop: Sink Again Beach – v1.4 (Enhanced Edition Update)
+- Lysfanga: The Time Shift Warrior
+- DRAGON QUEST BUILDERS
+- Combat Mission: Final Blitzkrieg – Complete, v2.11 + Downfall DLC
 - ……
 
 ## 感谢
