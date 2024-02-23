@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-02-16`，共 `4049` 款游戏。
-- AEW: Fight Forever – Bring the Boom Edition, v1.09 + 11 DLCs
-- Dungeons 4: Deluxe Edition – v1.3 + DLC/Bonus Content + Windows 7 Fix
-- Lies of P: Deluxe Edition – v1.5.0.0 Hotfix (Denuvoless) + 2 DLCs + Bonus Soundtrack + Windows 7 Fix
-- Tomb Raider I-III Remastered Starring Lara Croft, v1.0 (Steam)/v1.01-savefix2 (GOG) + Windows 7 Fix
-- SpellForce: Conquest of Eo – v01.04.28842 + Demon Scourge DLC
-- Tortuga: A Pirate’s Tale – v1.2.0.59274
-- Timeloop: Sink Again Beach – v1.4 (Enhanced Edition Update)
-- Lysfanga: The Time Shift Warrior
-- DRAGON QUEST BUILDERS
-- Combat Mission: Final Blitzkrieg – Complete, v2.11 + Downfall DLC
+最后更新时间 `2024-02-23`，共 `4063` 款游戏。
+- MX vs ATV Legends – v3.00 + 22 DLCs + Windows 7 Fix
+- Session: Skate Sim – Year 1 Complete Edition, v1.0.0.94 + 6 DLCs
+- Bandle Tale: A League of Legends Story – Deluxe Edition – v1.068p + DLC
+- Lords of the Fallen (2023): Deluxe Edition – v1.1.513 + 6 DLCs/Bonuses
+- Last Epoch – v1.0 (Build 13521929/Release)
+- PARANOID – v1.1
+- Forgiveness
+- Pocket Bravery – v1.25
+- Akumi Wars
+- Trinity Fusion – v1.1
 - ……
 
 ## 感谢
