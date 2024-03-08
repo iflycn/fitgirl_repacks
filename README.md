@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-02-23`，共 `4063` 款游戏。
-- MX vs ATV Legends – v3.00 + 22 DLCs + Windows 7 Fix
-- Session: Skate Sim – Year 1 Complete Edition, v1.0.0.94 + 6 DLCs
-- Bandle Tale: A League of Legends Story – Deluxe Edition – v1.068p + DLC
-- Lords of the Fallen (2023): Deluxe Edition – v1.1.513 + 6 DLCs/Bonuses
-- Last Epoch – v1.0 (Build 13521929/Release)
-- PARANOID – v1.1
-- Forgiveness
-- Pocket Bravery – v1.25
-- Akumi Wars
-- Trinity Fusion – v1.1
+最后更新时间 `2024-03-08`，共 `4115` 款游戏。
+- Hearts of Iron IV: : Ultimate Bundle – v1.14.1.e4e7 + 44 DLCs/Bonuses
+- WWE 2K24 – v1.02 + 5 DLCs + Community Creations (Monkey Repack)
+- Bang-On Balls: Chronicles – v1.0.5 + Bonus Content
+- Quilts and Cats of Calico: Special Edition – v1.0.77.0304.1140 + Bonus Soundtrack
+- Hairdresser Simulator – v1.004
+- Disco Simulator
+- Beneath the Mountain – v1.3
+- Fort Solis: Terra Edition – Build 13102434 + Bonus Content + Windows 7 Fix
+- Stellar Ghosts Settlers – v1.0.220
+- Tank Operations: European Campaign (Remastered) + Windows 7 Fix
 - ……
 
 ## 感谢
