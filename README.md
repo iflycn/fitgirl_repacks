@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-03-22`，共 `4158` 款游戏。
-- The Talos Principle 2 – v1.1.1 (v683050) + Bonus ArtBook
-- EMPYRE: Earls of the Deep Earth – Build #16
-- Grand Soul Saga
-- Alone in the Dark: Digital Deluxe Edition – v1.02/1.02 Hotfix + 3 DLCs + Bonus Content
-- The Last of Us: Part I – Digital Deluxe Edition – v1.1.3 + 2 DLCs + Bonus Content
-- Corbid! A Colorful Adventure + Bonus Soundtrack
-- Coromon: Deluxe Edition – v1.1.13 + 2 Bonus Soundtracks
-- Stardew Valley – v1.6.0 Build 24079
-- Disgaea 7: Vows of the Virtueless – Ultimate Edition, v1.12 + 14 DLCs/Bonuses + Windows 7 Fix
-- The Sims 4: Deluxe Edition – v1.105.345.1020 + All DLCs/Add-ons + Bonus Soundtracks + Online
+最后更新时间 `2024-03-29`，共 `4173` 款游戏。
+- Tempus Rail + Windows 7 Fix
+- Call of the Wild: The Angler – Premium Bundle, v1.6.1.2729280 + 11 DLCs
+- The Last Case of Benedict Fox: Definitive Edition – v1.0.1.0
+- Dark Days
+- South Park: Snow Day! – v70374 + 3 DLCs + Multiplayer + Windows 7 Fix
+- Suzerain: Supporter Edition – v3.0.1 + 5 DLCs/Bonuses
+- Infinity Strash: DRAGON QUEST – The Adventure of Dai, v1.0.3 (Denuvoless) + 5 DLCs
+- Millennia – v1.0.1.F + 2 DLCs/Bonuses
+- Cities: Skylines II – v1.1.0f1 + 5 DLCs + Bonus OST
+- Rise of Gun – v3.0.0 (Release)
 - ……
 
 ## 感谢
