@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-03-29`，共 `4173` 款游戏。
-- Tempus Rail + Windows 7 Fix
-- Call of the Wild: The Angler – Premium Bundle, v1.6.1.2729280 + 11 DLCs
-- The Last Case of Benedict Fox: Definitive Edition – v1.0.1.0
-- Dark Days
-- South Park: Snow Day! – v70374 + 3 DLCs + Multiplayer + Windows 7 Fix
-- Suzerain: Supporter Edition – v3.0.1 + 5 DLCs/Bonuses
-- Infinity Strash: DRAGON QUEST – The Adventure of Dai, v1.0.3 (Denuvoless) + 5 DLCs
-- Millennia – v1.0.1.F + 2 DLCs/Bonuses
-- Cities: Skylines II – v1.1.0f1 + 5 DLCs + Bonus OST
-- Rise of Gun – v3.0.0 (Release)
+最后更新时间 `2024-04-05`，共 `4190` 款游戏。
+- Shadow Corridor 2 – v1.04 + Windows 7 Fix
+- Ario
+- Barn Finders – v25372 (2024_04_02) + 2 DLCs
+- Virtual Rides 3: Ultimate Edition – v2.5.0f1 + 9 DLCs
+- Farmer’s Father: Save the Innocence
+- Timeworks
+- September 7th – v1.3.5
+- Bulwark: Falconeer Chronicles – v0.2.0.5.202403281756 + DLC + Bonus Soundtrack
+- Assetto Corsa Competizione – v1.10.0 + 9 DLCs + Windows 7 Fix
+- Arma 3: Ultimate Edition – v2.12.150779 + All DLCs
 - ……
 
 ## 感谢
