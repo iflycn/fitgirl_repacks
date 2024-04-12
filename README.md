@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-04-05`，共 `4190` 款游戏。
-- Shadow Corridor 2 – v1.04 + Windows 7 Fix
-- Ario
-- Barn Finders – v25372 (2024_04_02) + 2 DLCs
-- Virtual Rides 3: Ultimate Edition – v2.5.0f1 + 9 DLCs
-- Farmer’s Father: Save the Innocence
-- Timeworks
-- September 7th – v1.3.5
-- Bulwark: Falconeer Chronicles – v0.2.0.5.202403281756 + DLC + Bonus Soundtrack
-- Assetto Corsa Competizione – v1.10.0 + 9 DLCs + Windows 7 Fix
-- Arma 3: Ultimate Edition – v2.12.150779 + All DLCs
+最后更新时间 `2024-04-12`，共 `4213` 款游戏。
+- Steel Division 2: Total Conflict Edition – v103263 + 30 DLCs
+- Frogmonster
+- Broken Roads – v1.40.7035
+- Ereban: Shadow Legacy – v1.1.14
+- Children of the Sun
+- Inkbound – v1.0.0 Build #23540 + Multiplayer
+- NightFeed + Windows 7 Fix
+- Warhammer 40,000: Rogue Trader – Deluxe Edition – v1.1.52 + 4 DLCs + Bonus Content
+- CD 2: Trap Master – v1.0.2
+- Caribbean Legend – v1.1.0 (07.04.24)
 - ……
 
 ## 感谢
