@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-04-12`，共 `4213` 款游戏。
-- Steel Division 2: Total Conflict Edition – v103263 + 30 DLCs
-- Frogmonster
-- Broken Roads – v1.40.7035
-- Ereban: Shadow Legacy – v1.1.14
-- Children of the Sun
-- Inkbound – v1.0.0 Build #23540 + Multiplayer
-- NightFeed + Windows 7 Fix
-- Warhammer 40,000: Rogue Trader – Deluxe Edition – v1.1.52 + 4 DLCs + Bonus Content
-- CD 2: Trap Master – v1.0.2
-- Caribbean Legend – v1.1.0 (07.04.24)
+最后更新时间 `2024-04-19`，共 `4234` 款游戏。
+- Ghostwire: Tokyo – Deluxe Edition, Build 13890751 + 2 DLCs + Bonus OST
+- Grand Canyon + Windows 7 Fix
+- BIOMORPH – v1.1.26426
+- The Cursed Legacy + Windows 7 Fix
+- Grounded: Fully Yoked Edition – v1.4.0.4495 Rel/14076058 + Bonus OST + Multiplayer
+- Lil Doll House + Windows 7 Fix
+- Die Again + Bonus Soundtrack
+- DYSCHRONIA: Chronos Alternate – Dual Edition, Including VR Version
+- Harold Halibut + Windows 7 Fix
+- Yet Another Fantasy Title (YAFT) + HotFix 1
 - ……
 
 ## 感谢
