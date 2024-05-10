@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-05-03`，共 `4273` 款游戏。
-- The Last Spell – v1.1.0.4 + Dwarves of Runenberg DLC
-- POOLS
-- Truck Driver – v1.35.2.32 + 5 DLCs
-- This is a Ghost – v1.0.3 + Windows 7 Fix
-- Red Dead Redemption 2: Ultimate Edition – Build 1491.50 + UE Unlocker
-- Park Beyond – v3.0.0.171449 + 10 DLCs
-- The Game of Sisyphus
-- Lords of the Fallen (2023): Deluxe Edition – v1.5.17 + 6 DLCs/Bonuses
-- Lunar Lander Beyond
-- FRONT MISSION 2: Remake – v1.0.6
+最后更新时间 `2024-05-10`，共 `4299` 款游戏。
+- Echoes of the Plum Grove: Deluxe Edition – v1.0.0.0s + Bonus Soundtrack
+- Plushie from the Sky
+- PERISH: Elysium Edition – v7430 (Post-Anniversary Update) + Bonus OST + Windows 7 Fix
+- Minicology – v1.0f + Bonus Soundtrack
+- Bride into the Cave
+- V Rising – v1.0.0.79266-b23 + 7 DLCs/Bonuses + Dedicated Server + Multiplayer
+- Europa Universalis IV: Ultimate Bundle, v1.37.0.0 Inca (3d19) + 90 DLCs/Bonus OSTs
+- Scene Investigators: Complete Set – Build 14260211 + Bonus Content
+- Class of Heroes: Anniversary Edition
+- Heavy Storm Shadow – v1.043
 - ……
 
 ## 感谢
