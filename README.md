@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-05-17`，共 `4323` 款游戏。
-- Hollow Cocoon – v1.20
-- What the Fog + Unlock FPS Mod + Windows 7 Fix
-- The Cursed Tape + Windows 7 Fix
-- Euro Truck Simulator 2 – v1.50.1.0s + 87 DLCs
-- Touhou Danmaku Kagura: Phantasia Lost – Digital Deluxe Edition, v1.1.1 + 8 DLCs/Bonuses
-- STAR WARS: Battlefront (2015) – v1.0.7.64833 + 2 Bonus OSTs
-- The Land Beneath Us
-- Cricket 24 – v0.2.3451 + Multiplayer
-- Contraband Police – v10.4.8
-- Braid, Anniversary Edition – v0.444 Revision 15100M + Windows 7 Fix
+最后更新时间 `2024-05-24`，共 `4344` 款游戏。
+- RKGK / Rakugaki – v1.0.0.648
+- MULLET MADJACK: Deluxe Edition – v1.0b + Bonus Content
+- ROBOBEAT: Deluxe Edition – v1.0.2 + Bonus Soundtrack
+- Venture to the Vile – v1.0.1
+- Imaginary Friend Asylum
+- Deathbulge: Battle of the Bands – v1.1.0 + Bonus Soundtrack
+- Survival: Fountain of Youth – Build_1622 (v1.0/Release) + 1.5 DLCs
+- Senua’s Saga: Hellblade II – v1.0.0.0.158523
+- Pre Dusk
+- CyberHoney
 - ……
 
 ## 感谢
