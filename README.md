@@ -7,17 +7,17 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 更新
-最后更新时间 `2024-05-24`，共 `4344` 款游戏。
-- RKGK / Rakugaki – v1.0.0.648
-- MULLET MADJACK: Deluxe Edition – v1.0b + Bonus Content
-- ROBOBEAT: Deluxe Edition – v1.0.2 + Bonus Soundtrack
-- Venture to the Vile – v1.0.1
-- Imaginary Friend Asylum
-- Deathbulge: Battle of the Bands – v1.1.0 + Bonus Soundtrack
-- Survival: Fountain of Youth – Build_1622 (v1.0/Release) + 1.5 DLCs
-- Senua’s Saga: Hellblade II – v1.0.0.0.158523
-- Pre Dusk
-- CyberHoney
+最后更新时间 `2024-05-31`，共 `4363` 款游戏。
+- Galacticare: Placebo Edition – v1.0.3+879e4b9702 + Supporter Pack DLC/Bonus
+- C.A.R.D.S. RPG: The Misty Battlefield – Complete Pack + 7 DLCs/Bonuses
+- Old World: Complete – v1.0.72483 + 5 DLCs
+- Capes: King City Edition – v1.0.0.0 (17424) + Supporter Pack DLC/Bonus Content + Windows 7 Fix
+- Relaxing Simulator + Windows 7 Fix
+- SUCCUBUS: Ultimate Edition – Build 14521061 + 15 DLCs
+- Echoes of Despair
+- Who Wants To Be A Millionaire? Deluxe Edition – v1.3.0.1 + 12 DLCs
+- RIPOUT – v1.0:01
+- Cafe Owner Simulator – v1.4.105 + Farm DLC
 - ……
 
 ## 感谢
