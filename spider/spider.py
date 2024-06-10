@@ -52,7 +52,7 @@ while start_page <= end_page:
         article_time_element = article.find("time", class_="entry-date")
         article_link_element = article.find("a", href=lambda href: href and href.startswith("magnet:"))
         article_description_element = article.find("h3", string="Repack Features")
-        article_content_element = article.find("div", class_="su-spoiler-content")
+        article_content_element = article.find("div", class_="su-spoiler-title", text="Game Description").find_next_sibling("div", class_="su-spoiler-content")
         if article_link_element:
             article_id = article.get("id").split("-")[-1]
             print(f"√ 已保存第 {now_article}/{len(articles)} 条数据")
