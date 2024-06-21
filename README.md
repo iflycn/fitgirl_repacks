@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-06-14`，共 `4415` 款游戏。
-- Bytes: The Reverse Tower Defense
-- Downward: Enhanced Edition – v2.0.2 + Windows 7 Fix
-- Potty Knight Saga
-- Bloodstained: Ritual of the Night, v1.5 + 5 DLCs + Bonus Soundtrack
-- Escape from Hata + Windows 7 Fix
-- UNDYING: Premium Edition – Series 1 – v1.0.2.41413 + 6 DLCs/Bonuses
-- Simpler Times
-- Pinball FX – v1.0.18 (115974) + 57 DLCs/125 Tables + Windows 7 Fix
-- Enigma Quest + Windows 7 Fix
-- A Game’s Tale
+最后更新时间 `2024-06-21`，共 `4437` 款游戏。
+- METAL SLUG ATTACK RELOADED – v0611123117
+- Crime Boss: Rockay City – v1.0.9.1@143028 + 4 DLCs + Multiplayer + Windows 7 Fix
+- Don’t Shout Together
+- Broken Roads – v1.2.8255
+- Fork Road + Windows 7 Fix
+- #BLUD
+- REPUNK
+- DNF Duel, v1.80 + 5 DLCs
+- GHOSTWARE: Arena of the Dead – v1.0.6
+- Fix It: The Handyman Simulator
 - ……
 
 ## 感谢
