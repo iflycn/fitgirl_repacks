@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-06-21`，共 `4437` 款游戏。
-- METAL SLUG ATTACK RELOADED – v0611123117
-- Crime Boss: Rockay City – v1.0.9.1@143028 + 4 DLCs + Multiplayer + Windows 7 Fix
-- Don’t Shout Together
-- Broken Roads – v1.2.8255
-- Fork Road + Windows 7 Fix
-- #BLUD
-- REPUNK
-- DNF Duel, v1.80 + 5 DLCs
-- GHOSTWARE: Arena of the Dead – v1.0.6
-- Fix It: The Handyman Simulator
+最后更新时间 `2024-06-28`，共 `4455` 款游戏。
+- STUFFED
+- Teardown: Deluxe Edition, v1.5.4 (Build 14766888) + 3 DLCs
+- Victoria 3: Grand Edition, v1.7.0 (Kahwah) + 9 DLCs/Bonuses + Windows 7 Fix
+- Dead War: Rise of Zombies
+- Fallen Seeds – v1.0.15 + Bonus Soundtrack
+- Baggage Inspector
+- Psychopath Massacre
+- Aquarist – Build 14612470 (Jellyfish Update) + Japanese Garden DLC
+- Riven: Deluxe Edition + Bonus Content
+- Forge Simulator
 - ……
 
 ## 感谢
