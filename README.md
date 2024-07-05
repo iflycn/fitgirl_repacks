@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-06-28`，共 `4455` 款游戏。
-- STUFFED
-- Teardown: Deluxe Edition, v1.5.4 (Build 14766888) + 3 DLCs
-- Victoria 3: Grand Edition, v1.7.0 (Kahwah) + 9 DLCs/Bonuses + Windows 7 Fix
-- Dead War: Rise of Zombies
-- Fallen Seeds – v1.0.15 + Bonus Soundtrack
-- Baggage Inspector
-- Psychopath Massacre
-- Aquarist – Build 14612470 (Jellyfish Update) + Japanese Garden DLC
-- Riven: Deluxe Edition + Bonus Content
-- Forge Simulator
+最后更新时间 `2024-07-05`，共 `4470` 款游戏。
+- House Builder: Pack and Punch Bundle, Build 19-06-2024/14769590 + 2 DLCs
+- DETECTIVE: Minerva Case + Windows 7 Fix
+- Easy Red 2: All Fronts – v1.3.8 + 3 DLCs
+- Shrot – v1.2 + Bonus Soundtrack
+- PowerWash Simulator – v1.8 (1170) + 7 DLCs
+- Granblue Fantasy Versus: Rising, v1.42 + 17 DLCs
+- Chained Together – v1.7.9 + Local/Online Multiplayer + Windows 7 Fix
+- Workers & Resources: Soviet Republic – Complete, v1.0.0.2 + 3 DLCs/Bonuses
+- Nancy Drew: Mystery of the Seven Keys
+- Thief Simulator 2 – v1.27c
 - ……
 
 ## 感谢
