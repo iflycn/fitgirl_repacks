@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-07-05`，共 `4470` 款游戏。
-- House Builder: Pack and Punch Bundle, Build 19-06-2024/14769590 + 2 DLCs
-- DETECTIVE: Minerva Case + Windows 7 Fix
-- Easy Red 2: All Fronts – v1.3.8 + 3 DLCs
-- Shrot – v1.2 + Bonus Soundtrack
-- PowerWash Simulator – v1.8 (1170) + 7 DLCs
-- Granblue Fantasy Versus: Rising, v1.42 + 17 DLCs
-- Chained Together – v1.7.9 + Local/Online Multiplayer + Windows 7 Fix
-- Workers & Resources: Soviet Republic – Complete, v1.0.0.2 + 3 DLCs/Bonuses
-- Nancy Drew: Mystery of the Seven Keys
-- Thief Simulator 2 – v1.27c
+最后更新时间 `2024-07-26`，共 `4483` 款游戏。
+- PATHOGEN X – v1.0.0.6 + Windows 7 Fix
+- Supernatural – v1.2.1 + Windows 7 Fix
+- Ready or Not – v54936 + 1.5 DLCs + Multiplayer + Windows 7 Fix
+- Hot Lap Racing: Deluxe Edition – v1.0.3-0cfd3d1de + Bonus Soundtrack
+- The Alpha Wolf
+- Eternal Escape: Castle of Shadows
+- Wine Hunt: Aim Fidelity – v2.0.1.2
+- Fallen Leaf – v1.0.0.14/v1.0.0.1 + Bonus Soundtrack
+- Amygdala – v2.9.0 “Fluid” + Windows 7 Fix
+- Cursed Bet
 - ……
 
 ## 感谢
