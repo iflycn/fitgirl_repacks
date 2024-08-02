@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-07-26`，共 `4483` 款游戏。
-- PATHOGEN X – v1.0.0.6 + Windows 7 Fix
-- Supernatural – v1.2.1 + Windows 7 Fix
-- Ready or Not – v54936 + 1.5 DLCs + Multiplayer + Windows 7 Fix
-- Hot Lap Racing: Deluxe Edition – v1.0.3-0cfd3d1de + Bonus Soundtrack
-- The Alpha Wolf
-- Eternal Escape: Castle of Shadows
-- Wine Hunt: Aim Fidelity – v2.0.1.2
-- Fallen Leaf – v1.0.0.14/v1.0.0.1 + Bonus Soundtrack
-- Amygdala – v2.9.0 “Fluid” + Windows 7 Fix
-- Cursed Bet
+最后更新时间 `2024-08-02`，共 `4514` 款游戏。
+- Xeno Runners – v1.2.0 + Bonus OST + Windows 7 Fix
+- Into The Flames – v2044 + 8 DLCs
+- Taxi Rush
+- STAR WARS: Bounty Hunter
+- Diatomic
+- Barrhell
+- Hannah’s Day
+- Fabledom – v1.06
+- Secrets of Magonia – v1.03
+- Space Prison: Supporter Edition + 2 DLCs
 - ……
 
 ## 感谢
