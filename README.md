@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-08-02`，共 `4514` 款游戏。
-- Xeno Runners – v1.2.0 + Bonus OST + Windows 7 Fix
-- Into The Flames – v2044 + 8 DLCs
-- Taxi Rush
-- STAR WARS: Bounty Hunter
-- Diatomic
-- Barrhell
-- Hannah’s Day
-- Fabledom – v1.06
-- Secrets of Magonia – v1.03
-- Space Prison: Supporter Edition + 2 DLCs
+最后更新时间 `2024-08-09`，共 `4528` 款游戏。
+- The Mortuary Assistant: Definitive Edition – v3.0.0
+- S.T.A.R.W.I.E.L.D.
+- Aerial_Knight’s We Never Yield
+- Mad Devils: Damned-finitive Edition – v1.2
+- Thalassa: Edge of the Abyss – v1.0.0-012215
+- Way of the Hunter: Ultimate Edition – v1.6 + 10 DLCs + Windows 7 Fix
+- MARS 2120 – v1.0.2 + Windows 7 Fix
+- UBOAT – v2024.1 (Full Release)
+- Age of Empires IV: Digital Deluxe Edition – v11.0.782 + 4 DLCs/Bonuses + 4K HDR Videos Pack
+- Dune: Imperium – v2.04.885 + Rise Of Ix DLC
 - ……
 
 ## 感谢
