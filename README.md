@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-08-09`，共 `4528` 款游戏。
-- The Mortuary Assistant: Definitive Edition – v3.0.0
-- S.T.A.R.W.I.E.L.D.
-- Aerial_Knight’s We Never Yield
-- Mad Devils: Damned-finitive Edition – v1.2
-- Thalassa: Edge of the Abyss – v1.0.0-012215
-- Way of the Hunter: Ultimate Edition – v1.6 + 10 DLCs + Windows 7 Fix
-- MARS 2120 – v1.0.2 + Windows 7 Fix
-- UBOAT – v2024.1 (Full Release)
-- Age of Empires IV: Digital Deluxe Edition – v11.0.782 + 4 DLCs/Bonuses + 4K HDR Videos Pack
-- Dune: Imperium – v2.04.885 + Rise Of Ix DLC
+最后更新时间 `2024-08-16`，共 `4547` 款游戏。
+- No Return
+- Shoulders of Giants: Ultimate – v1.9.1
+- Millennia – v1.0.21444.F + 3 DLCs/Bonuses
+- Eden Genesis: Deluxe Edition – v1.0.012 + 2 Bonus Soundtracks
+- Decopins2 – v2.2.2
+- FOOTAGE REC (FOOTAGE BODYCAM) + Windows 7 Fix
+- Operation: Polygon Storm – Deluxe Edition + DLC
+- Cult of the Lamb: The One Who Waits Bundle – v1.4.3.588 + 24 DLCs/Bonuses
+- The Bathhouse: Restored Edition – v1.03
+- GUILTY GEAR -STRIVE-: Daredevil Edition – v1.39 + 28 DLCs/Bonuses
 - ……
 
 ## 感谢
