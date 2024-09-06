@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-08-30`，共 `4588` 款游戏。
-- Monster Jam Showdown + DLC + Windows 7 Fix
-- Wild West Dynasty: Settler Edition – v1.0.9064 + 3 DLCs/Bonuses
-- Rising Star 2 – v2.98.327
-- Alessia’s Dollhouse
-- The Lord of the Rings: Return to Moria – v1.3.2.157411
-- LightRay
-- Pocket Bravery – v2.03 + 2 DLCs
-- Sunset Hills
-- Northgard: The Viking Age Edition – v3.5.15.39065 + 15 DLCs/Bonuses
-- Vampire Therapist – v1.03
+最后更新时间 `2024-09-06`，共 `4609` 款游戏。
+- ExoCross – Build 15551072
+- BAKERU: Soundtrack Edition + Bonus OST
+- Three Alpha One Nine – v1.2.5.2 + Windows 7 Fix
+- Motel Manager Simulator
+- Corruption 2029 – v1.03 (Build 13541267)
+- Chronicles of Sagrea + Windows 7 Fix
+- The Casting of Frank Stone: Deluxe Edition + 2 DLCs
+- Tobla: Divine Path – Build 15418311
+- Kamikaze Lassplanes – v1.1.0
+- Why don’t they laugh? v1.08 + Windows 7 Fix
 - ……
 
 ## 感谢
