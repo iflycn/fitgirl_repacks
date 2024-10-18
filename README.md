@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-10-11`，共 `4720` 款游戏。
-- Smalland: Survive the Wilds – v1.4.3_16_0084cb01
-- Pure Golf + Windows 7 Fix
-- Dead Season – v0.9.5.0
-- Anno 2205: Ultimate Edition, v1.8.3741.13270 + 6 DLCs + Bonus Content
-- Heavy Cargo – The Truck Simulator, v1.0.0.20241008
-- The Planet Crafter: The Galactic Terraformer Edition, v1.310 + Planet: Humble DLC
-- The Black Masses – v1.0 (Release)
-- Thyria – v1.0 (Release)
-- Deepest Chamber: Resurrection – v1.0.835
-- Arranger: A Role-Puzzling Adventure – v1.1.13 + Bonus Soundtrack
+最后更新时间 `2024-10-18`，共 `4755` 款游戏。
+- Welcome to Empyreum, v1.0.9 + Windows 7 Fix
+- Arsene Lupin: Once a Thief
+- Sky Oceans: Wings for Hire – v1.0.0-0.9.157b
+- Worlds of Aria: Supporters Edition – v1.0.12 + DLC
+- Musicmenia – v1.0.0
+- Epstein 2
+- Princess Maker 2 Regeneration – Build 14106110
+- BURGGEIST
+- Drova: Forsaken Kin – v1.0.1
+- Neva
 - ……
 
 ## 感谢
