@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-10-18`，共 `4755` 款游戏。
-- Welcome to Empyreum, v1.0.9 + Windows 7 Fix
-- Arsene Lupin: Once a Thief
-- Sky Oceans: Wings for Hire – v1.0.0-0.9.157b
-- Worlds of Aria: Supporters Edition – v1.0.12 + DLC
-- Musicmenia – v1.0.0
-- Epstein 2
-- Princess Maker 2 Regeneration – Build 14106110
-- BURGGEIST
-- Drova: Forsaken Kin – v1.0.1
-- Neva
+最后更新时间 `2024-10-25`，共 `4782` 款游戏。
+- Metaphor: ReFantazio – Atlus 35th Digital Anniversary Edition, v1.02 + 14 DLCs/Bonuses
+- AWAKEN: Astral Blade – Deluxe Edition – v202410222004 + 3 DLCs/Bonuses
+- State of Decay 2: Juggernaut Edition – v38 / 724522 + DLC
+- A Hero’s Rest: An RPG Town Simulator – v1.0 (Release)
+- You Are Grounded + Windows 7 Fix
+- Outpost: Infinity Siege – Vanguard Edition – v2.0.4d5d3f0.2024.0927.13 + DLC
+- Necro Story: Soundtrack Edition – v6043 + Bonus OST
+- Kong: Survivor Instinct
+- It’s Only Money: Founders Edition- v1.0.0-9254 + DLC
+- Call to Arms: Gates of Hell – Ostfront: WW2 Bundle – v1.146.0 + 4 DLCs
 - ……
 
 ## 感谢
