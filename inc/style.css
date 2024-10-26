@@ -127,6 +127,21 @@ a {
   word-wrap: break-word;
 }
 
+.data-info img {
+  margin-bottom: 1em;
+  width: 100%;
+  border-radius: 8px;
+}
+
+@media screen and (min-width: 992px) {
+  .data-info img {
+    float: left;
+    margin: 0 1.5em .5em 0;
+    width: 180px;
+    height: 240px;
+  }
+}
+
 .data-info p,
 .data-info li {
   margin-top: 10px;

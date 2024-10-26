@@ -51,6 +51,7 @@ while start_page <= end_page:
         article_title_element = article.find("h1", class_="entry-title")
         article_time_element = article.find("time", class_="entry-date")
         article_link_element = article.find("a", href=lambda href: href and href.startswith("magnet:"))
+        article_cover_element = article.find("img", width="150")
         article_description_element = article.find("h3", string="Repack Features")
         article_content_element = article.select_one("div.su-spoiler-title:-soup-contains('Game Description') + div.su-spoiler-content")
         if article_link_element:
@@ -59,9 +60,10 @@ while start_page <= end_page:
             article_title = article_title_element.text.strip() if article_title_element else None
             article_time = article_time_element.get("datetime") if article_time_element else None
             article_link = article_link_element.get("href")
+            article_cover = article_cover_element.get("src") if article_cover_element else None
             article_description = article_description_element.find_next_sibling().text.strip() if article_description_element else None
             article_content = article_content_element.text.strip() if article_content_element else None
-            data_list.append([article_id, article_title, article_time, article_link, article_description, article_content])
+            data_list.append([article_id, article_title, article_time, article_link, article_cover, article_description, article_content])
         else:
             print(f"× 抛弃第 {now_article}/{len(articles)} 条数据")
 
@@ -95,7 +97,7 @@ if len(data_list) >= previous_count:
     csv_file = os.path.join(save_path, f"repacks-{current_time}.csv")
     with open(csv_file, "w", newline="", encoding="utf-8-sig") as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["ID", "标题", "时间", "链接", "说明", "简介"])
+        writer.writerow(["ID", "标题", "时间", "链接", "封面", "说明", "简介"])
         writer.writerows(data_list)
     print(f"\n数据文件 {csv_file} 已更新")
 

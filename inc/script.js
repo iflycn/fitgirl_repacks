@@ -120,17 +120,18 @@ const showData = () => {
     magnetLink.textContent = '磁力链接';
     dataBlock.appendChild(magnetLink);
 
-    if (item[4]) {
+    if (item[5]) {
       const description = document.createElement('div');
       description.classList.add('data-info');
-      description.innerHTML = `<h4>打包说明:</h4>${formatText(item[4], 'li')}`;
+      description.innerHTML = item[4] ? `<img src="${item[4]}">` : '';
+      description.innerHTML += `<h4>打包说明:</h4>${formatText(item[5], 'li')}`;
       dataBlock.appendChild(description);
     }
 
-    if (item[5]) {
+    if (item[6]) {
       const summary = document.createElement('div');
       summary.classList.add('data-info');
-      summary.innerHTML = `<h4>游戏介绍:</h4>${formatText(item[5])}`;
+      summary.innerHTML = `<h4>游戏介绍:</h4>${formatText(item[6])}`;
       dataBlock.appendChild(summary);
     }
 
