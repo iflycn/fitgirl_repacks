@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-10-25`，共 `4782` 款游戏。
-- Metaphor: ReFantazio – Atlus 35th Digital Anniversary Edition, v1.02 + 14 DLCs/Bonuses
-- AWAKEN: Astral Blade – Deluxe Edition – v202410222004 + 3 DLCs/Bonuses
-- State of Decay 2: Juggernaut Edition – v38 / 724522 + DLC
-- A Hero’s Rest: An RPG Town Simulator – v1.0 (Release)
-- You Are Grounded + Windows 7 Fix
-- Outpost: Infinity Siege – Vanguard Edition – v2.0.4d5d3f0.2024.0927.13 + DLC
-- Necro Story: Soundtrack Edition – v6043 + Bonus OST
-- Kong: Survivor Instinct
-- It’s Only Money: Founders Edition- v1.0.0-9254 + DLC
-- Call to Arms: Gates of Hell – Ostfront: WW2 Bundle – v1.146.0 + 4 DLCs
+最后更新时间 `2024-11-01`，共 `4802` 款游戏。
+- DREDGE: Complete Edition – v1.5.3 Build 2879 + 9 DLCs/Bonuses
+- Moon Mystery
+- Devilated – v1.0 (Release) + Bonus Content
+- Frontier Hunter: Erza’s Wheel of Fortune – v1.1.04 + 7 DLCs
+- ICARUS: Complete the Set – v2.2.26.128817 + 15 DLCs
+- KitHack Model Club – v1.4.0.1111
+- Don’t Be Afraid 2, v1.0.1 + Windows 7 Fix
+- Blockbuster Inc. – v1.9.0
+- Riot Operator
+- Red Dead Redemption – v1.0.40.57107 + Bonus Content
 - ……
 
 ## 感谢
