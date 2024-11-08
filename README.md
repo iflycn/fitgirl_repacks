@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-11-01`，共 `4802` 款游戏。
-- DREDGE: Complete Edition – v1.5.3 Build 2879 + 9 DLCs/Bonuses
-- Moon Mystery
-- Devilated – v1.0 (Release) + Bonus Content
-- Frontier Hunter: Erza’s Wheel of Fortune – v1.1.04 + 7 DLCs
-- ICARUS: Complete the Set – v2.2.26.128817 + 15 DLCs
-- KitHack Model Club – v1.4.0.1111
-- Don’t Be Afraid 2, v1.0.1 + Windows 7 Fix
-- Blockbuster Inc. – v1.9.0
-- Riot Operator
-- Red Dead Redemption – v1.0.40.57107 + Bonus Content
+最后更新时间 `2024-11-08`，共 `4816` 款游戏。
+- Knock on the Coffin Lid, v1.1 + Supporter Pack DLC
+- River City Saga: Three Kingdoms Next – v1.0.1
+- Shadow Corridor 2 – v1.14.1 + Bonus Soundtrack + Windows 7 Fix
+- Scarlet Key
+- Dying Light 2: Stay Human – Ultimate Edition – v1.19.0 + 27 DLCs + Bonus Content + Multiplayer + Windows 7 Fix
+- Sainthood
+- Five Nights at Freddy’s: Into the Pit – v1.0.9.0
+- Mario & Luigi: Brothership, v1.0.0 + Ryujinx/Suyu Switch Emulators
+- Captain Contraption’s Chocolate Factory – Soundtrack Bundle, v1.22 + Bonus OST
+- Metal Slug Tactics
 - ……
 
 ## 感谢
