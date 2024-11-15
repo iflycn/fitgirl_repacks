@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-11-08`，共 `4816` 款游戏。
-- Knock on the Coffin Lid, v1.1 + Supporter Pack DLC
-- River City Saga: Three Kingdoms Next – v1.0.1
-- Shadow Corridor 2 – v1.14.1 + Bonus Soundtrack + Windows 7 Fix
-- Scarlet Key
-- Dying Light 2: Stay Human – Ultimate Edition – v1.19.0 + 27 DLCs + Bonus Content + Multiplayer + Windows 7 Fix
-- Sainthood
-- Five Nights at Freddy’s: Into the Pit – v1.0.9.0
-- Mario & Luigi: Brothership, v1.0.0 + Ryujinx/Suyu Switch Emulators
-- Captain Contraption’s Chocolate Factory – Soundtrack Bundle, v1.22 + Bonus OST
-- Metal Slug Tactics
+最后更新时间 `2024-11-15`，共 `4832` 款游戏。
+- Drizzlepath: Picturae + Windows 7 Fix
+- WWE 2K24 – v1.24 + 11 DLCs + Community Creations (Monkey Repack)
+- Teenage Mutant Ninja Turtles: Splintered Fate – Digital Deluxe Edition, Build 16345992 + Bonus Content
+- Millennia: Premium Edition – v1.0.22991.F + 4 DLCs/Bonuses
+- Grand Theft Auto: The Trilogy – The Definitive Edition, v1.112.48699928 / “Barbra Streisand” Edition + Windows 7 Fix
+- Dawn of the Ashen Queen
+- Wild Indigo Ranch – v1.0.172p + Bonus Soundtrack
+- Lust ‘n Dead – v1.0.15
+- Farming Simulator 25 – v1.2.1.0 (37515/46627) + 2 DLC’s + Multiplayer + Partial Windows 7 Fix
+- Revhead: Turbo Bundle – v1.9.11049 + 3 DLCs
 - ……
 
 ## 感谢
