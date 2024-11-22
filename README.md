@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-11-15`，共 `4832` 款游戏。
-- Drizzlepath: Picturae + Windows 7 Fix
-- WWE 2K24 – v1.24 + 11 DLCs + Community Creations (Monkey Repack)
-- Teenage Mutant Ninja Turtles: Splintered Fate – Digital Deluxe Edition, Build 16345992 + Bonus Content
-- Millennia: Premium Edition – v1.0.22991.F + 4 DLCs/Bonuses
-- Grand Theft Auto: The Trilogy – The Definitive Edition, v1.112.48699928 / “Barbra Streisand” Edition + Windows 7 Fix
-- Dawn of the Ashen Queen
-- Wild Indigo Ranch – v1.0.172p + Bonus Soundtrack
-- Lust ‘n Dead – v1.0.15
-- Farming Simulator 25 – v1.2.1.0 (37515/46627) + 2 DLC’s + Multiplayer + Partial Windows 7 Fix
-- Revhead: Turbo Bundle – v1.9.11049 + 3 DLCs
+最后更新时间 `2024-11-22`，共 `4853` 款游戏。
+- Vampire Hunters – v1.1.1.CL11374
+- Once Alive – v0.9.9.8
+- S.T.A.L.K.E.R. 2: Heart of Chornobyl – Deluxe Edition, Build 16474540 (Update 1) + 3 DLC* + Bonus Content [Monkey Repack]
+- Nine Treasures of Liuyin – Build 16282435
+- Chrono Ark: Deluxe Edition – v1.1a + 2 DLCs
+- FALL – v0.1.1 + Windows 7 Fix
+- Distant Worlds 2 – v1.2.6.7 + 3 DLCs
+- Toys ‘n’ Traps
+- Rabbit and Steel – v1.0.4.1 + Bonus Soundtrack
+- Struggle F.O: Deluxe Pack – v1.0.1 + Bonus Content
 - ……
 
 ## 感谢
