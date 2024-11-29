@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-11-22`，共 `4853` 款游戏。
-- Vampire Hunters – v1.1.1.CL11374
-- Once Alive – v0.9.9.8
-- S.T.A.L.K.E.R. 2: Heart of Chornobyl – Deluxe Edition, Build 16474540 (Update 1) + 3 DLC* + Bonus Content [Monkey Repack]
-- Nine Treasures of Liuyin – Build 16282435
-- Chrono Ark: Deluxe Edition – v1.1a + 2 DLCs
-- FALL – v0.1.1 + Windows 7 Fix
-- Distant Worlds 2 – v1.2.6.7 + 3 DLCs
-- Toys ‘n’ Traps
-- Rabbit and Steel – v1.0.4.1 + Bonus Soundtrack
-- Struggle F.O: Deluxe Pack – v1.0.1 + Bonus Content
+最后更新时间 `2024-11-29`，共 `4866` 款游戏。
+- Incantation – v1.0.0.2
+- Homeworld 3, v1.3-CL364034 + 8 DLCs/Bonuses
+- Luma Island – v1.19219 + Multiplayer
+- Massacre At The Mirage + Windows 7 Fix
+- CORPUS EDAX – Build 16101849
+- Albatroz + Windows 7 Fix
+- AWAKEN: Astral Blade – Deluxe Edition – v202411181541 + 3 DLCs/Bonuses
+- Mercury Abbey
+- CarX Street: Deluxe Edition – v1.2.1 + 3 DLCs
+- Été – v1.0.2 + Bonus Soundtracks
 - ……
 
 ## 感谢
