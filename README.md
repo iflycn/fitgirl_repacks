@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-12-06`，共 `4882` 款游戏。
-- Spirit Mancer: Demon Hunter Edition + 5 DLCs/Bonuses
-- GigaBash – v1.5.2 + 5 DLCs
-- Diesel Legacy: The Brazen Age – Build 98375 + Windows 7 Fix
-- Disney Dreamlight Valley: Enchanted Edition, v1.14.1.990 + 2 DLCs
-- ROMANCE OF THE THREE KINGDOMS 8 REMAKE – Digital Deluxe Edition, v1.0.4 + 5 DLCs
-- Pocket Bravery – v2.05 + 3 DLCs
-- Vasilisa and Baba Yaga – v1.3.10
-- Potionomics: Deluxe Edition – Build 16245907 + 3 DLCs/Bonuses
-- Liminal Universe + Windows 7 Fix
-- Vaporum: Lockdown – Build #80 (Patch #5)
+最后更新时间 `2024-12-13`，共 `4897` 款游戏。
+- Stars In The Trash: Deluxe Edition – Build 20241208 + Bonus Content
+- Thief Simulator – v1.8 + 2 DLCs
+- Legacy of Kain: Soul Reaver 1 & 2 Remastered
+- Wartales: The Mercenaries Edition – v1.0.39118 + 4 DLCs
+- Archons
+- Viscera
+- Priest Simulator: Vampire Show – Splendor Set, v2.0.0.160 + Her Ghost DLC + Bonus OST
+- Sorry We’re Closed: Deluxe Edition + Bonus Soundtrack
+- World War Z: Aftermath – Deluxe Edition – v2.36 (0.1.MS.747246/752065) + All DLCs
+- Critter Café + Windows 7 Fix
 - ……
 
 ## 感谢
