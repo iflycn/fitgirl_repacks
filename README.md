@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-12-13`，共 `4897` 款游戏。
-- Stars In The Trash: Deluxe Edition – Build 20241208 + Bonus Content
-- Thief Simulator – v1.8 + 2 DLCs
-- Legacy of Kain: Soul Reaver 1 & 2 Remastered
-- Wartales: The Mercenaries Edition – v1.0.39118 + 4 DLCs
-- Archons
-- Viscera
-- Priest Simulator: Vampire Show – Splendor Set, v2.0.0.160 + Her Ghost DLC + Bonus OST
-- Sorry We’re Closed: Deluxe Edition + Bonus Soundtrack
-- World War Z: Aftermath – Deluxe Edition – v2.36 (0.1.MS.747246/752065) + All DLCs
-- Critter Café + Windows 7 Fix
+最后更新时间 `2024-12-20`，共 `4907` 款游戏。
+- TEKKEN 8: Ultimate Edition, v1.10.01 + 17 DLCs + Bonus Soundtrack
+- On Your Tail: Deluxe Bundle – v1.0.1 + Bonus Content
+- Teenage Mutant Ninja Turtles: Mutants Unleashed – Digital Deluxe Edition, Build 16615507 + 4 DLCs
+- Flint: Treasure of Oblivion
+- Songs of Conquest – v1.4.8 + 4 DLCs/Bonuses
+- Snow Bros. Wonderland
+- This War of Mine: Final Cut – Complete Edition, v6.0.0 + 7 DLCs/Bonuses
+- The Cabin Factory – v1.07
+- Harold Halibut, v1.1.1 + Windows 7 Fix
+- Slopecrashers – v1.0.0.4
 - ……
 
 ## 感谢
