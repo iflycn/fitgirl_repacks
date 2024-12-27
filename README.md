@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-12-20`，共 `4907` 款游戏。
-- TEKKEN 8: Ultimate Edition, v1.10.01 + 17 DLCs + Bonus Soundtrack
-- On Your Tail: Deluxe Bundle – v1.0.1 + Bonus Content
-- Teenage Mutant Ninja Turtles: Mutants Unleashed – Digital Deluxe Edition, Build 16615507 + 4 DLCs
-- Flint: Treasure of Oblivion
-- Songs of Conquest – v1.4.8 + 4 DLCs/Bonuses
-- Snow Bros. Wonderland
-- This War of Mine: Final Cut – Complete Edition, v6.0.0 + 7 DLCs/Bonuses
-- The Cabin Factory – v1.07
-- Harold Halibut, v1.1.1 + Windows 7 Fix
-- Slopecrashers – v1.0.0.4
+最后更新时间 `2024-12-27`，共 `4918` 款游戏。
+- Workers & Resources: Soviet Republic – Complete, v1.0.0.17 + 4 DLCs/Bonuses
+- Trade Conquest
+- Hellbreach: Vegas – v1.0.4
+- Penny Blood: Hellbound – v1.0.00628
+- Monster Jam Showdown, v1442067 + 7 DLCs + Windows 7 Fix
+- Glorious Companions – v1.0 (Release)
+- My Recycling Center: Complete Edition, Build 16763757 + 3 DLCs
+- Recycling Center Simulator – v1.1.6
+- Nine Sols – v202412161711
+- Pyramids and Aliens: Escape Room, v1.0.6
 - ……
 
 ## 感谢
