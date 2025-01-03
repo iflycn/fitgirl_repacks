@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2024-12-27`，共 `4918` 款游戏。
-- Workers & Resources: Soviet Republic – Complete, v1.0.0.17 + 4 DLCs/Bonuses
-- Trade Conquest
-- Hellbreach: Vegas – v1.0.4
-- Penny Blood: Hellbound – v1.0.00628
-- Monster Jam Showdown, v1442067 + 7 DLCs + Windows 7 Fix
-- Glorious Companions – v1.0 (Release)
-- My Recycling Center: Complete Edition, Build 16763757 + 3 DLCs
-- Recycling Center Simulator – v1.1.6
-- Nine Sols – v202412161711
-- Pyramids and Aliens: Escape Room, v1.0.6
+最后更新时间 `2025-01-03`，共 `4933` 款游戏。
+- Barbie Project Friendship
+- Snufkin: Melody of Moominvalley – Digital Deluxe Edition, Build 16780083 + 2 DLCs + Bonus Content
+- Starcom: Unknown Space, v17344 (Kepler)
+- Dungeon Defenders: Ultimate Collection – v10.0.1 + 30 DLCs
+- 10 Dead Doves, v1.13.3 + Bonus Soundtrack
+- REYNATIS: Ultimate Edition, v1.0.7 + 10 DLCs
+- Finding Frankie – Build 16260850
+- A Day Out – v1.4
+- Passageway of the Ancients, v1.2
+- Labyrinthine: Supporter Edition, Patch 06/12/24 + DLC
 - ……
 
 ## 感谢
