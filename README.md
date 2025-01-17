@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-01-10`，共 `4951` 款游戏。
-- Per Aspera: Deluxe Edition – v1.8.3.63441 + 6 DLCs/Bonuses
-- Exsys
-- Tale of Immortal – v1.1.105.269 + 2 DLCs + Bonus OST
-- XENOTILT: HOSTILE PINBALL ACTION – v1.081
-- Farm Manager 2021, v1.1.20241030.529 + 3 DLCs
-- Deathless. Tales of Old Rus: Deluxe Edition, v1.0.0.30713 + Bonus Content
-- Empires of the Undergrowth – v1.000419
-- [REDACTED] – v1.0.0.6
-- Blood Bowl 3: Brutal Edition – Build 50513 + 6 DLCs
-- Amenti
+最后更新时间 `2025-01-17`，共 `4983` 款游戏。
+- Battle Waves: Card Tactics
+- Umbra: The Last Summoner – v1.0a
+- Reus 2: Complete Edition , v1.5.0 + Ice Age DLC + Bonus Content
+- Age of Darkness: Final Stand – v1.0 (Release)
+- Gangs of Neo Tokyo
+- Peaks of Yore – v1.9.0b
+- Cursed Digicam
+- The Haunting of Joni Evers – v1.0.4
+- Tavern Master: Complete, Build 16501626 + Pirates Retreat DLC
+- Placid Plastic Duck Simulator: More Ducks Everywhere Bundle, v2.0.1 + 8 DLCs/Bonuses
 - ……
 
 ## 感谢
