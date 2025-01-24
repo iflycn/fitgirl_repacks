@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-01-17`，共 `4983` 款游戏。
-- Battle Waves: Card Tactics
-- Umbra: The Last Summoner – v1.0a
-- Reus 2: Complete Edition , v1.5.0 + Ice Age DLC + Bonus Content
-- Age of Darkness: Final Stand – v1.0 (Release)
-- Gangs of Neo Tokyo
-- Peaks of Yore – v1.9.0b
-- Cursed Digicam
-- The Haunting of Joni Evers – v1.0.4
-- Tavern Master: Complete, Build 16501626 + Pirates Retreat DLC
-- Placid Plastic Duck Simulator: More Ducks Everywhere Bundle, v2.0.1 + 8 DLCs/Bonuses
+最后更新时间 `2025-01-24`，共 `5005` 款游戏。
+- Steel Division 2: Total Conflict Edition – v143305 + 35 DLCs
+- STAR WARS: Episode I: Jedi Power Battles
+- LumineNight
+- DISORDER
+- NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE: Internet Angel Pack, v1.4.0 + Bonus Content
+- Uncle Chop’s Rocket Shop: Deluxe Edition, v1.4.0:5875 + 2 DLCs/Bonuses
+- The Lost Village – v1.2.10 + 4 DLCs
+- Somber Echoes – v21558
+- DRAGON BALL: Sparking! ZERO, v2008.007.003.005.004 + 9 DLCs + Multiplayer + Windows 7 Fix
+- Primeval
 - ……
 
 ## 感谢
