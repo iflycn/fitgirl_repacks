@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-01-24`，共 `5005` 款游戏。
-- Steel Division 2: Total Conflict Edition – v143305 + 35 DLCs
-- STAR WARS: Episode I: Jedi Power Battles
-- LumineNight
-- DISORDER
-- NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE: Internet Angel Pack, v1.4.0 + Bonus Content
-- Uncle Chop’s Rocket Shop: Deluxe Edition, v1.4.0:5875 + 2 DLCs/Bonuses
-- The Lost Village – v1.2.10 + 4 DLCs
-- Somber Echoes – v21558
-- DRAGON BALL: Sparking! ZERO, v2008.007.003.005.004 + 9 DLCs + Multiplayer + Windows 7 Fix
-- Primeval
+最后更新时间 `2025-01-31`，共 `5032` 款游戏。
+- Princess&Blade – v0.95.6
+- UBOAT – v2025.1 Patch 5
+- Learning Factory: Curious Mind Edition, v1.0.0.546 Release + Bonus Content
+- Battle Realms: Zen Edition – v1.59.1 (Release)
+- Suicide Squad: Kill the Justice League, v1.0.6.0 + Offline DLCs + CrackFix/EAC Bypass + Bonus Soundtrack
+- Road Maintenance Simulator 2: Winter Services – v1.0.0.4213
+- Enotria: The Last Song – v1.007.28161
+- 1428: Shadows over Silesia – Deluxe Edition, v1.2.23 + 3 DLCs/Bonuses
+- Gift Collector
+- Paradise’s Secrets
 - ……
 
 ## 感谢
