@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-02-07`，共 `5065` 款游戏。
-- Runa & The Chaikurú Legacy
-- KAMiBAKO – Mythology of Cube –
-- Grief like a stray dog – Build 17201665
-- Exogate Initiative – v1.0.0.97bd92b
-- Kingdom Come: Deliverance II, v1.1.1-11377_release_1_1 + 4 DLCs/Bonuses
-- Teenage Mutant Ninja Turtles: Splintered Fate – Digital Deluxe Edition, v1.7.0 + DLC + Bonus Content
-- THE MUTE HOUSE – v1.0.39
-- Backyard Boxing – v1.1.3
-- Eyes of War – Build 0.3 (v1.0 Release)
-- FAIRY TAIL 2 – v1.2.0.0 + 11 DLCs
+最后更新时间 `2025-02-14`，共 `5083` 款游戏。
+- Get Tilted! : ) – v1.1 + Bonus Soundtrack
+- WARRIORS: Abyss – Hack’n’Dash Ultimate Edition, v1.0.1 + All DLCs
+- Garden Life: A Cozy Simulator – v1272@67558 + 2 DLCs
+- Arctic Motel Simulator
+- Mind Over Magic – v515-1396-adfa0d31 (v1.0 Release)
+- Astral Ascent – v1.10.1 + DLC + Bonus Content
+- Skelethrone: The Chronicles of Ericona – v1.4.6.0
+- Tales Beyond The Tomb: The Last Vigil
+- Door Kickers 2: Task Force North – v1.00 (Release)
+- Renaissance Kingdom Wars: Deluxe Edition + Bonus Soundtrack
 - ……
 
 ## 感谢
