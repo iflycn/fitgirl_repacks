@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-02-14`，共 `5083` 款游戏。
-- Get Tilted! : ) – v1.1 + Bonus Soundtrack
-- WARRIORS: Abyss – Hack’n’Dash Ultimate Edition, v1.0.1 + All DLCs
-- Garden Life: A Cozy Simulator – v1272@67558 + 2 DLCs
-- Arctic Motel Simulator
-- Mind Over Magic – v515-1396-adfa0d31 (v1.0 Release)
-- Astral Ascent – v1.10.1 + DLC + Bonus Content
-- Skelethrone: The Chronicles of Ericona – v1.4.6.0
-- Tales Beyond The Tomb: The Last Vigil
-- Door Kickers 2: Task Force North – v1.00 (Release)
-- Renaissance Kingdom Wars: Deluxe Edition + Bonus Soundtrack
+最后更新时间 `2025-02-21`，共 `5110` 款游戏。
+- Laundromat Simulator
+- THE KING OF FIGHTERS XIII GLOBAL MATCH
+- UNDER NIGHT IN-BIRTH II Sys:Celes, v1.21 + 4 DLCs
+- Microtopia – v1.0.4
+- Soulbind: Tales of the Underworld
+- Wéko The Mask Gatherer
+- Gym Nights
+- Smells Like a Mushroom
+- Headquarters: World War II – Complete, v1.02.01 + 3 DLCs/Bonuses
+- Kitten Burst – Game + Soundtrack Bundle, v4.04c + Bonus OST
 - ……
 
 ## 感谢
