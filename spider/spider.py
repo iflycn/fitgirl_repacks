@@ -23,6 +23,13 @@ if end_page < start_page:
     print("\n未获取到有效页码，程序中止")
     os._exit(0)
 
+# 获取热门游戏
+hot_games = ""
+hot_links = soup.find("div", class_="jetpack_top_posts_widget")
+if hot_links:
+  for link in hot_links.find_all("a"):
+      hot_games += link.get("title")
+
 # 爬取数据
 data_list = []
 failed_attempts = 0
@@ -63,7 +70,8 @@ while start_page <= end_page:
             article_cover = article_cover_element.get("src") if article_cover_element else None
             article_description = article_description_element.find_next_sibling().text.strip() if article_description_element else None
             article_content = article_content_element.text.strip() if article_content_element else None
-            data_list.append([article_id, article_title, article_time, article_link, article_cover, article_description, article_content])
+            article_hot = int(article_title in hot_games) if article_title else 0
+            data_list.append([article_id, article_title, article_time, article_link, article_cover, article_description, article_content, article_hot])
         else:
             print(f"× 抛弃第 {now_article}/{len(articles)} 条数据")
 
@@ -97,7 +105,7 @@ if len(data_list) >= previous_count:
     csv_file = os.path.join(save_path, f"repacks-{current_time}.csv")
     with open(csv_file, "w", newline="", encoding="utf-8-sig") as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["ID", "标题", "时间", "链接", "封面", "说明", "简介"])
+        writer.writerow(["ID", "标题", "时间", "链接", "封面", "说明", "简介", "热门"])
         writer.writerows(data_list)
     print(f"\n数据文件 {csv_file} 已更新")
 
