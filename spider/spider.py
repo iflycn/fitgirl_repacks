@@ -28,7 +28,7 @@ hot_games = ""
 hot_links = soup.find("div", class_="jetpack_top_posts_widget")
 if hot_links:
   for link in hot_links.find_all("a"):
-      hot_games += link.get("title")
+      hot_games += link.get("href").replace(site_url, "")
 
 # 爬取数据
 data_list = []
@@ -59,7 +59,7 @@ while start_page <= end_page:
         article_time_element = article.find("time", class_="entry-date")
         article_link_element = article.find("a", href=lambda href: href and href.startswith("magnet:"))
         article_cover_element = article.find("img", width="150")
-        article_description_element = article.find("h3", string="Repack Features")
+        article_description_element = article.find("h3", string=lambda text: text and text.startswith("Repack Features"))
         article_content_element = article.select_one("div.su-spoiler-title:-soup-contains('Game Description') + div.su-spoiler-content")
         if article_link_element:
             article_id = article.get("id").split("-")[-1]
@@ -70,7 +70,7 @@ while start_page <= end_page:
             article_cover = article_cover_element.get("src") if article_cover_element else None
             article_description = article_description_element.find_next_sibling().text.strip() if article_description_element else None
             article_content = article_content_element.text.strip() if article_content_element else None
-            article_hot = int(article_title in hot_games) if article_title else 0
+            article_hot = int(article_title_element.find("a").get("href").replace(site_url, "") in hot_games) if article_title_element else 0
             data_list.append([article_id, article_title, article_time, article_link, article_cover, article_description, article_content, article_hot])
         else:
             print(f"× 抛弃第 {now_article}/{len(articles)} 条数据")

@@ -59,15 +59,23 @@ const initPage = async () => {
 const renderSearch = () => {
   // 创建搜索框
   const input = document.createElement('input');
+  const placeholders = [`在 ${renderData.length} 款游戏中搜索`, '输入 #hot# 搜索本周热门游戏'];
+  let currentPlaceholder = 0;
   input.type = 'text';
   input.name = 'searchTerm';
-  input.placeholder = `在 ${renderData.length} 款游戏中搜索`;
+  input.placeholder = placeholders[currentPlaceholder];
+  setInterval(() => {
+    currentPlaceholder = (currentPlaceholder + 1) % 2;
+    input.placeholder = placeholders[currentPlaceholder];
+  }, 5000);
 
   // 用户按回车键搜索
   input.addEventListener('keydown', event => {
     if (event.key === 'Enter') {
       const searchTerm = input.value.toLowerCase().split(' ');
-      renderData = rawData.filter(item => searchTerm.every(word => item[1].toLowerCase().includes(word)));
+      renderData = searchTerm[0] === '#hot#' ?
+        rawData.filter(item => item[7] === 1) :
+        rawData.filter(item => searchTerm.every(word => item[1].toLowerCase().includes(word)));
       currentPage = 1;
       renderPage();
     }
