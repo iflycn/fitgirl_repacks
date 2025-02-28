@@ -10,7 +10,9 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-02-28`，共 `5139` 款游戏。
+最后更新时间 `2025-02-28`，共 `5144` 款游戏。
+- Expeditions: A MudRunner Game, Season 2 Update (Build 17182680) + 5 DLCs
+- Train Traffic Manager
 - Granblue Fantasy Versus: Rising, v2.01 + 35 DLCs/Bonuses + Multiplayer
 - Earthquake: Margarita School
 - The Test: Reality Check + Bonus Soundtrack
@@ -19,8 +21,6 @@
 - Dungeon Dungeon! – v1.01
 - Farmagia: Digital Deluxe Edition – v1.0.1 + 7 DLCs/Bonuses
 - Terror of the Seven Seas – v1.12
-- Monospaced Lovers, v1.0.1.1 + Bonus Soundtrack
-- The Gravedigger – v1.0.9
 - ……
 
 ## 感谢
