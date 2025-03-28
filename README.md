@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-03-21`，共 `5219` 款游戏。
-- Natsu-Mon: 20th Century Summer Kid + Broadcast Over Sunset DLC
-- Sledders – v1.0 (Release)
-- Aquatic Store Simulator
-- Romancing SaGa 2: Revenge of the Seven, v1.0.2 + 4 Switch Emulators
-- The Invincible: Deluxe Edition, v1.6 (v44.494 CL_54877) + Bonus Content + Windows 7 Fix
-- Quarterstaff – v1.0.0-5db267
-- Cities: Skylines II – v1.2.5f1 + 16 DLCs + Bonus OSTs
-- Virballs – v1.0 (Release)
-- Reignbreaker – v1.0.0 (Release)
-- Death Stream
+最后更新时间 `2025-03-28`，共 `5242` 款游戏。
+- DarkTimes: Wrath of the Raven
+- Grit and Valor – 1949: Resistance Edition, v1.0.120 + 3 DLCs/Bonuses
+- Venus Vacation PRISM: DEAD OR ALIVE Xtreme – Digital Deluxe Edition with Early Purchase Bonus, v1.02 + 3 DLCs
+- Strike Force 2: Terrorist Hunt – Enhanced Edition – v2.0.1
+- Mortal Kombat 1: Khaos Reigns Kollection – v1.28.0 + All DLCs + Ryujinx/Sudachi Switch Emulators
+- Dark Deity 2: Deluxe Edition – v1.0.1 + Bonus Soundtrack
+- Device Doctor Simulator 2024 – v1.01
+- Empires of the Undergrowth: Complete – v1.101071 + 2 DLCs/Bonuses
+- Redemption of Liuyin – v0.1
+- GUILTY GEAR -STRIVE-: Blazing Edition, v1.44 + 31 DLCs/Bonuses
 - ……
 
 ## 感谢
