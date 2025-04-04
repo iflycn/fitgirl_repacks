@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-03-28`，共 `5242` 款游戏。
-- DarkTimes: Wrath of the Raven
-- Grit and Valor – 1949: Resistance Edition, v1.0.120 + 3 DLCs/Bonuses
-- Venus Vacation PRISM: DEAD OR ALIVE Xtreme – Digital Deluxe Edition with Early Purchase Bonus, v1.02 + 3 DLCs
-- Strike Force 2: Terrorist Hunt – Enhanced Edition – v2.0.1
-- Mortal Kombat 1: Khaos Reigns Kollection – v1.28.0 + All DLCs + Ryujinx/Sudachi Switch Emulators
-- Dark Deity 2: Deluxe Edition – v1.0.1 + Bonus Soundtrack
-- Device Doctor Simulator 2024 – v1.01
-- Empires of the Undergrowth: Complete – v1.101071 + 2 DLCs/Bonuses
-- Redemption of Liuyin – v0.1
-- GUILTY GEAR -STRIVE-: Blazing Edition, v1.44 + 31 DLCs/Bonuses
+最后更新时间 `2025-04-04`，共 `5271` 款游戏。
+- Pub Sim – v1.0 (Release)
+- Haste – v1.0.b + Bonus Soundtrack
+- Galacticare: Full Coverage Edition, v1.2.0+4f6f505ec2 + 3 DLCs/Bonuses
+- Train Yard Builder
+- Food GO! Simulator
+- Within the Cosmos
+- Deep Inside
+- Animal Simulator
+- I Had a Plan! – v1.0.3
+- Ship Graveyard Simulator 2, v13195 + 5 DLCs
 - ……
 
 ## 感谢
