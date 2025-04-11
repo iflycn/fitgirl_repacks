@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-04-04`，共 `5271` 款游戏。
-- Pub Sim – v1.0 (Release)
-- Haste – v1.0.b + Bonus Soundtrack
-- Galacticare: Full Coverage Edition, v1.2.0+4f6f505ec2 + 3 DLCs/Bonuses
-- Train Yard Builder
-- Food GO! Simulator
-- Within the Cosmos
-- Deep Inside
-- Animal Simulator
-- I Had a Plan! – v1.0.3
-- Ship Graveyard Simulator 2, v13195 + 5 DLCs
+最后更新时间 `2025-04-11`，共 `5301` 款游戏。
+- Locomoto – v1.0.1-114-15996
+- Monster Energy Supercross 25: The Official Video Game + DLC
+- Blue Prince
+- Detective – The Test
+- Sandwalkers – v2.0.0 (Release) + Bonus Soundtrack
+- Veins of DARKNESS – Fix 2.0
+- Spin Rhythm XD – v1.5.0 + 4 DLCs/Bonuses
+- Cinemaster: Cinema Simulator – v1.6
+- Commandos: Origins – Deluxe Edition & Classified Archives, v1.0.0.74101 + 3 DLCs/Bonuses
+- Skulltide – v1.0 (Release)
 - ……
 
 ## 感谢
