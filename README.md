@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-04-11`，共 `5301` 款游戏。
-- Locomoto – v1.0.1-114-15996
-- Monster Energy Supercross 25: The Official Video Game + DLC
-- Blue Prince
-- Detective – The Test
-- Sandwalkers – v2.0.0 (Release) + Bonus Soundtrack
-- Veins of DARKNESS – Fix 2.0
-- Spin Rhythm XD – v1.5.0 + 4 DLCs/Bonuses
-- Cinemaster: Cinema Simulator – v1.6
-- Commandos: Origins – Deluxe Edition & Classified Archives, v1.0.0.74101 + 3 DLCs/Bonuses
-- Skulltide – v1.0 (Release)
+最后更新时间 `2025-04-18`，共 `5326` 款游戏。
+- Storage Guys – v1.0.2
+- Lab Rat
+- ArkCraft: The Rebirth of the World
+- Burden of Command – v1.0.2
+- Oxygen Not Included: Complete Bundle, vU55-663500-SCR + 4 DLCs/Bonuses
+- CAPTURED – v1.2.1.0.2 (Insanity Update)
+- Skelethrone: The Chronicles of Ericona – Complete Edition, v1.5.1.0 + 3 DLCs/Bonuses
+- #DRIVE Rally
+- Romancing SaGa 2: Revenge of the Seven – Build 17804876 (Denuvoless) + Bonus Accessory Set DLC
+- Dark Envoy: Director’s Cut – Supporter Edition, v1.6.1.73592 + Bonus Content
 - ……
 
 ## 感谢
