@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-04-18`，共 `5326` 款游戏。
-- Storage Guys – v1.0.2
-- Lab Rat
-- ArkCraft: The Rebirth of the World
-- Burden of Command – v1.0.2
-- Oxygen Not Included: Complete Bundle, vU55-663500-SCR + 4 DLCs/Bonuses
-- CAPTURED – v1.2.1.0.2 (Insanity Update)
-- Skelethrone: The Chronicles of Ericona – Complete Edition, v1.5.1.0 + 3 DLCs/Bonuses
-- #DRIVE Rally
-- Romancing SaGa 2: Revenge of the Seven – Build 17804876 (Denuvoless) + Bonus Accessory Set DLC
-- Dark Envoy: Director’s Cut – Supporter Edition, v1.6.1.73592 + Bonus Content
+最后更新时间 `2025-04-25`，共 `5361` 款游戏。
+- The Empty Desk – v1.0.04
+- Liminality – v1.0 (Release)
+- The Last Spell: Complete The Set Bundle, v1.2.18.3.s.de + 3 DLCs/Bonuses
+- Old Skies – v1.1
+- The Elder Scrolls IV: Oblivion Remastered – Deluxe Edition, v0.411.140.0 (233194) + All DLCs/Bonuses
+- Sunset Motel
+- Augmented Empire – v22089
+- Maliki: Poison Of The Past – v1.3.2
+- Orphans
+- Lushfoil Photography Sim
 - ……
 
 ## 感谢
