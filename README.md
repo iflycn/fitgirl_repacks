@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-04-25`，共 `5361` 款游戏。
-- The Empty Desk – v1.0.04
-- Liminality – v1.0 (Release)
-- The Last Spell: Complete The Set Bundle, v1.2.18.3.s.de + 3 DLCs/Bonuses
-- Old Skies – v1.1
-- The Elder Scrolls IV: Oblivion Remastered – Deluxe Edition, v0.411.140.0 (233194) + All DLCs/Bonuses
-- Sunset Motel
-- Augmented Empire – v22089
-- Maliki: Poison Of The Past – v1.3.2
-- Orphans
-- Lushfoil Photography Sim
+最后更新时间 `2025-05-02`，共 `5385` 款游戏。
+- Badlands Crew – v30737 + Bonus Soundtrack
+- The Nameless: Slay Dragon – v2025.4.25
+- Starcom: Unknown Space, v21530
+- BrokenLore: DON’T WATCH
+- Mythical Concept STARNAUT: DX Edition – v4091 + 2 Bonus DLCs
+- Wartales: The Mercenaries Edition – v1.0.41212 + 6 DLCs/Bonuses
+- Pure Bubble Hockey
+- Mirthwood – v1.0.65p2
+- SubwaySim 2 – v2153
+- MX vs ATV Legends – v4.0 + 34 DLCs + Windows 7 Fix
 - ……
 
 ## 感谢
