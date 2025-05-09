@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-05-02`，共 `5385` 款游戏。
-- Badlands Crew – v30737 + Bonus Soundtrack
-- The Nameless: Slay Dragon – v2025.4.25
-- Starcom: Unknown Space, v21530
-- BrokenLore: DON’T WATCH
-- Mythical Concept STARNAUT: DX Edition – v4091 + 2 Bonus DLCs
-- Wartales: The Mercenaries Edition – v1.0.41212 + 6 DLCs/Bonuses
-- Pure Bubble Hockey
-- Mirthwood – v1.0.65p2
-- SubwaySim 2 – v2153
-- MX vs ATV Legends – v4.0 + 34 DLCs + Windows 7 Fix
+最后更新时间 `2025-05-09`，共 `5416` 款游戏。
+- The Monster Breeder – v1.0 (Release)
+- iDigging – v1.0.1
+- Slitterhead – v1.02.2-r00065826 (Denuvoless)
+- ICARUS: Complete the Set – v2.2.53.136221 + 16 DLCs
+- Age of Empires II: Definitive Edition – v101.103.12349.0 (#143421) + 13 DLCs/Bonuses + Windows 7 Fix
+- TROUBLESHOOTER: Complete Collection – Build 18318222 + 20 DLCs/Bonuses
+- Cybernetic Fault
+- Teardown: Deluxe Edition, v1.6.3 + 3 DLCs
+- Drop Duchy – v0.40.6
+- Rift of the NecroDancer: Ultimate Pack, v1.4.0 + 10 DLCs/Bonuses
 - ……
 
 ## 感谢
