@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-05-09`，共 `5416` 款游戏。
-- The Monster Breeder – v1.0 (Release)
-- iDigging – v1.0.1
-- Slitterhead – v1.02.2-r00065826 (Denuvoless)
-- ICARUS: Complete the Set – v2.2.53.136221 + 16 DLCs
-- Age of Empires II: Definitive Edition – v101.103.12349.0 (#143421) + 13 DLCs/Bonuses + Windows 7 Fix
-- TROUBLESHOOTER: Complete Collection – Build 18318222 + 20 DLCs/Bonuses
-- Cybernetic Fault
-- Teardown: Deluxe Edition, v1.6.3 + 3 DLCs
-- Drop Duchy – v0.40.6
-- Rift of the NecroDancer: Ultimate Pack, v1.4.0 + 10 DLCs/Bonuses
+最后更新时间 `2025-05-16`，共 `5448` 款游戏。
+- SpellForce: Conquest of Eo – Bundle, v01.10.31934 + 4 DLCs/Bonuses
+- Let’s Nuke Mars
+- Diplomacy is Not an Option – v1.0.53 + Bonus Content
+- Life is Strange: Double Exposure – Ultimate Edition, v1.1.1027899 + 2 DLCs + Bonus Soundtrack
+- EBOLA VILLAGE – Build 18363918
+- Crow Country – Build 18416687 + Bonus OST
+- The Sinking City Remastered: Deluxe Edition, Build 18222381 + 6 DLCs/Bonuses
+- MyPawnShop – v0.14.0
+- The Precinct – v1.4.18135
+- Wildermyth: Complete Edition – v1.16+559 + 3 DLCs/Bonuses
 - ……
 
 ## 感谢
