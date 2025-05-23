@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-05-16`，共 `5448` 款游戏。
-- SpellForce: Conquest of Eo – Bundle, v01.10.31934 + 4 DLCs/Bonuses
-- Let’s Nuke Mars
-- Diplomacy is Not an Option – v1.0.53 + Bonus Content
-- Life is Strange: Double Exposure – Ultimate Edition, v1.1.1027899 + 2 DLCs + Bonus Soundtrack
-- EBOLA VILLAGE – Build 18363918
-- Crow Country – Build 18416687 + Bonus OST
-- The Sinking City Remastered: Deluxe Edition, Build 18222381 + 6 DLCs/Bonuses
-- MyPawnShop – v0.14.0
-- The Precinct – v1.4.18135
-- Wildermyth: Complete Edition – v1.16+559 + 3 DLCs/Bonuses
+最后更新时间 `2025-05-23`，共 `5476` 款游戏。
+- Deliver At All Costs
+- Sea of Stars – v2.0.58728 + 3 DLCs/Bonuses
+- JDM: Japanese Drift Master – v1.1.36.1 + Supporter Pack DLC
+- FANTASIAN Neo Dimension – v1.0.2 (Denuvoless)
+- AI LIMIT: Deluxe Edition, v1.0.022 + 2 DLCs
+- Kathy Rain 2: Soothsayer – v1.0.2.4024
+- RoadCraft: Rebuild Edition – v0.1.D1.1.429865/430509 + 4 DLCs
+- Tactical Warfare
+- Tales & Tactics – v1.1.03
+- S.T.A.L.K.E.R.: Legends of the Zone Trilogy – Enhanced Edition, v1.7.0.12606
 - ……
 
 ## 感谢
