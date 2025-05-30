@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-05-23`，共 `5476` 款游戏。
-- Deliver At All Costs
-- Sea of Stars – v2.0.58728 + 3 DLCs/Bonuses
-- JDM: Japanese Drift Master – v1.1.36.1 + Supporter Pack DLC
-- FANTASIAN Neo Dimension – v1.0.2 (Denuvoless)
-- AI LIMIT: Deluxe Edition, v1.0.022 + 2 DLCs
-- Kathy Rain 2: Soothsayer – v1.0.2.4024
-- RoadCraft: Rebuild Edition – v0.1.D1.1.429865/430509 + 4 DLCs
-- Tactical Warfare
-- Tales & Tactics – v1.1.03
-- S.T.A.L.K.E.R.: Legends of the Zone Trilogy – Enhanced Edition, v1.7.0.12606
+最后更新时间 `2025-05-30`，共 `5499` 款游戏。
+- Near-Mage: Deluxe Edition – v1.0.0b + 3 DLCs/Bonuses
+- Oddsparks: An Automation Adventure – Deluxe Edition, v1.0.S30597 + DLC
+- Zombie Cure Lab, v1.0.0 (Release) + Bonus Soundtrack
+- Gunsmith Simulator: Deluxe Edition, v1.3.10 + 3 DLCs/Bonuses
+- Cypress Legacy
+- Fuga: Melodies of Steel 3, v1.00 + Bonus Content
+- Trident’s Tale
+- Firefighting Simulator: The Squad – v1.0.41.0 (MS Store)
+- Workers & Resources: Soviet Republic – Complete, v1.1.0.7 + 5 DLCs/Bonuses
+- Call of Duty: Vanguard – v1.26 Campaign/Zombies + Bonus Soundtrack
 - ……
 
 ## 感谢
