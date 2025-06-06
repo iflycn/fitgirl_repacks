@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-05-30`，共 `5499` 款游戏。
-- Near-Mage: Deluxe Edition – v1.0.0b + 3 DLCs/Bonuses
-- Oddsparks: An Automation Adventure – Deluxe Edition, v1.0.S30597 + DLC
-- Zombie Cure Lab, v1.0.0 (Release) + Bonus Soundtrack
-- Gunsmith Simulator: Deluxe Edition, v1.3.10 + 3 DLCs/Bonuses
-- Cypress Legacy
-- Fuga: Melodies of Steel 3, v1.00 + Bonus Content
-- Trident’s Tale
-- Firefighting Simulator: The Squad – v1.0.41.0 (MS Store)
-- Workers & Resources: Soviet Republic – Complete, v1.1.0.7 + 5 DLCs/Bonuses
-- Call of Duty: Vanguard – v1.26 Campaign/Zombies + Bonus Soundtrack
+最后更新时间 `2025-06-06`，共 `5526` 款游戏。
+- Lysfanga: The Time Shift Warrior – Build 14218760 + Bonus OST
+- POPUCOM: Too Many Clothes Edition, v1.0.1 + 2 DLCs + Online Multiplayer
+- Cyber Knights: Flashpoint – v2.0.1
+- GT Manager
+- The Rewinder 2, v2.1.5 + Bonus OST
+- ContractVille – v1.0 (Release)
+- Paranormal Cleanup – v1.0.0d
+- PaperKlay
+- Trash Goblin – v1.0.6497
+- Star Mission: Remote Sectors – v1.0.0
 - ……
 
 ## 感谢
