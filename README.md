@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-06-13`，共 `5550` 款游戏。
-- Submersed 2: The Hive
-- Across The Obelisk: Complete Bundle – v1.6.0 + 12 DLCs
-- Last Guest
-- Spray Paint Simulator – Revision 1829
-- MindsEye – v4598223 + 9 DLCs
-- My Dream Setup: Complete Edition – Build 18776378 + 4 DLCs
-- Dread: The Cold Case
-- Warhammer 40,000: Space Marine – Master Crafted Edition, v1.0.1038.3669 (MS Store)/v1.0.1038.3764 (Steam) + All DLCs
-- Dune: Imperium – v3.0.0.1276 + 2 DLCs
-- Sears: The Sky Frontier – vEA 0.3.2 (Final Release)
+最后更新时间 `2025-06-20`，共 `5571` 款游戏。
+- Robots at Midnight – v1.0.16014
+- Date Everything! Lavish Edition – v2.555.97759 + 2 DLCs
+- Snow Plowing Simulator – v2506161915 (Release)
+- Still Wakes the Deep: The Complete Collection – v1.5 (34484) + 2 DLCs/Bonuses
+- TRAPPED
+- Songs of Conquest: Complete Bundle, v1.6.0 + 5 DLCs/Bonuses
+- GEX Trilogy
+- SCUM: Complete Bundle – v1.0.0.0.94918 + 12 DLCs/Bonuses
+- Crime Simulator – v1.0
+- TRON: Catalyst – v0.10.3 (CS:16422)
 - ……
 
 ## 感谢
