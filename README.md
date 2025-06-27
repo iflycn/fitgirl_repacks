@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-06-20`，共 `5571` 款游戏。
-- Robots at Midnight – v1.0.16014
-- Date Everything! Lavish Edition – v2.555.97759 + 2 DLCs
-- Snow Plowing Simulator – v2506161915 (Release)
-- Still Wakes the Deep: The Complete Collection – v1.5 (34484) + 2 DLCs/Bonuses
-- TRAPPED
-- Songs of Conquest: Complete Bundle, v1.6.0 + 5 DLCs/Bonuses
-- GEX Trilogy
-- SCUM: Complete Bundle – v1.0.0.0.94918 + 12 DLCs/Bonuses
-- Crime Simulator – v1.0
-- TRON: Catalyst – v0.10.3 (CS:16422)
+最后更新时间 `2025-06-27`，共 `5590` 款游戏。
+- Little Nightmares: Enhanced Edition
+- NEDRA
+- Tales from The Dancing Moon – v1.0 (Release)
+- Teardown: Deluxe Edition, v1.7.0 + 4 DLCs
+- Yaoling: Mythical Journey – v1.0.0 + 2 DLCs/Bonuses
+- Warhammer 40,000: Rogue Trader – Voidfarer Edition, v1.4.0.184 + 8 DLCs/Bonuses
+- Blessed Burden – v1.0.1
+- Road Food Simulator – v0.1.06
+- Through the Nightmares – v1.0.2
+- Suit for Hire – v1.0.1 + CrackFix
 - ……
 
 ## 感谢
