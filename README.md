@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-06-27`，共 `5590` 款游戏。
-- Little Nightmares: Enhanced Edition
-- NEDRA
-- Tales from The Dancing Moon – v1.0 (Release)
-- Teardown: Deluxe Edition, v1.7.0 + 4 DLCs
-- Yaoling: Mythical Journey – v1.0.0 + 2 DLCs/Bonuses
-- Warhammer 40,000: Rogue Trader – Voidfarer Edition, v1.4.0.184 + 8 DLCs/Bonuses
-- Blessed Burden – v1.0.1
-- Road Food Simulator – v0.1.06
-- Through the Nightmares – v1.0.2
-- Suit for Hire – v1.0.1 + CrackFix
+最后更新时间 `2025-07-04`，共 `5615` 款游戏。
+- 7 Days to Die – v2.0 b295 + 4 DLCs/Bonuses
+- Flushed
+- Echoes of the Plum Grove: Deluxe Edition – v1.0.5.23s + Bonus Content
+- Rekindled Trails
+- CityDriver: Deluxe-Bundle, v25.06.26.43749 + 10 DLCs
+- Tech Market Simulator
+- ANTONBLAST – v1.1.2f + Bonus Soundtrack
+- Frog Jump – v1.0.1
+- About a Boy
+- Fruitbus: Fine Dining Edition – v1.0.12 + Bonus Soundtrack
 - ……
 
 ## 感谢
