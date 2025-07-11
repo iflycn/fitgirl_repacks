@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-07-04`，共 `5615` 款游戏。
-- 7 Days to Die – v2.0 b295 + 4 DLCs/Bonuses
-- Flushed
-- Echoes of the Plum Grove: Deluxe Edition – v1.0.5.23s + Bonus Content
-- Rekindled Trails
-- CityDriver: Deluxe-Bundle, v25.06.26.43749 + 10 DLCs
-- Tech Market Simulator
-- ANTONBLAST – v1.1.2f + Bonus Soundtrack
-- Frog Jump – v1.0.1
-- About a Boy
-- Fruitbus: Fine Dining Edition – v1.0.12 + Bonus Soundtrack
+最后更新时间 `2025-07-11`，共 `5636` 款游戏。
+- Expeditions: A MudRunner Game, Season 3 Update (Build 18713680) + 6 DLCs
+- Vesnith Tapes
+- Battleborn – Build 2151336 + Reborn Project Mod
+- Disney Dreamlight Valley: Magical Edition – v1.17.11.6 + 3 DLCs
+- Tony Hawk’s Pro Skater 3 + 4: Digital Deluxe Edition + 4 DLCs
+- The Vault: Logic Puzzle Box
+- Honey Select 2: Libido – v1.2.3 / Compressed BetterRepack DX R16 + Sideloader Modpack
+- Laser Tag Massacre – v1.12 + Bonus Soundtrack
+- SkullX: Aibohphobia – v1.0.4
+- Ancient Cities – v1.7.34
 - ……
 
 ## 感谢
