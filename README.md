@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-07-11`，共 `5636` 款游戏。
-- Expeditions: A MudRunner Game, Season 3 Update (Build 18713680) + 6 DLCs
-- Vesnith Tapes
-- Battleborn – Build 2151336 + Reborn Project Mod
-- Disney Dreamlight Valley: Magical Edition – v1.17.11.6 + 3 DLCs
-- Tony Hawk’s Pro Skater 3 + 4: Digital Deluxe Edition + 4 DLCs
-- The Vault: Logic Puzzle Box
-- Honey Select 2: Libido – v1.2.3 / Compressed BetterRepack DX R16 + Sideloader Modpack
-- Laser Tag Massacre – v1.12 + Bonus Soundtrack
-- SkullX: Aibohphobia – v1.0.4
-- Ancient Cities – v1.7.34
+最后更新时间 `2025-07-18`，共 `5653` 款游戏。
+- Dragon Ball Z: Kakarot – Legendary Edition, HD v1.30 + 18 DLCs
+- Loophole
+- Virtual Rides 3: Ultimate Edition – v2.7.0f4 + 11 DLCs
+- Ratten Reich – v1.0.0 (Release) + Bonus Comic Book
+- Striving for Light – v1.0.0.0c + Bonus Soundtrack
+- Ready or Not: LSPD Bundle – v88602 + v66884 + 4 DLCs/Bonuses
+- HUNTER×HUNTER NEN×IMPACT – v1.0.4 + 2 DLCs
+- Big Dig Energy
+- Power the Future
+- Our War: Firepower Suppression
 - ……
 
 ## 感谢
