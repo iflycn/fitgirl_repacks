@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-08-01`，共 `5708` 款游戏。
-- Miami Hotel Simulator – v0.13.345.pa
-- One-Eyed Likho: Deluxe Edition + Bonus Content DLC
-- Terminator: Dark Fate – Defiance: Complete Bundle, v1.07.1145 + 3 DLCs/Bonuses + Windows 7 Fix
-- Tales of the Shire: A The Lord of The Rings Game – v1.0 #46029
-- UNDERWARD: Supporter Edition – v1.2.0.1 + DLC
-- No Sleep For Kaname Date – From AI: THE SOMNIUM FILES – Soundtrack Edition + Bonus OST
-- Achilles: Survivor – v1.0.9290 + Bonus DLC
-- Car Mechanic Simulator 2021: Gold Bundle – v1.0.38 + 20 DLCs
-- Dinosaurs Dominion – v1.0.0.4
-- Get To Work – v1.1.1.6
+最后更新时间 `2025-08-08`，共 `5732` 款游戏。
+- Grand Emprise 2: Portals Apart
+- GRADIUS ORIGINS – v1.001.000
+- RIPOUT – v1.41:01
+- Soul Apocalypto
+- Granblue Fantasy Versus: Rising, v2.21 + 44 DLCs/Bonuses + Multiplayer
+- Contract Rush DX
+- MX vs ATV Legends – v4.06 + 37 DLCs + Windows 7 Fix
+- Bee Simulator: The Hive
+- Liftoff: Micro Drones – v1.0.0 (Release)
+- Misc. A Tiny Tale + OST Bundle, v1.0.5 + Bonus Soundtrack
 - ……
 
 ## 感谢
