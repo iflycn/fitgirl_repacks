@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-08-08`，共 `5732` 款游戏。
-- Grand Emprise 2: Portals Apart
-- GRADIUS ORIGINS – v1.001.000
-- RIPOUT – v1.41:01
-- Soul Apocalypto
-- Granblue Fantasy Versus: Rising, v2.21 + 44 DLCs/Bonuses + Multiplayer
-- Contract Rush DX
-- MX vs ATV Legends – v4.06 + 37 DLCs + Windows 7 Fix
-- Bee Simulator: The Hive
-- Liftoff: Micro Drones – v1.0.0 (Release)
-- Misc. A Tiny Tale + OST Bundle, v1.0.5 + Bonus Soundtrack
+最后更新时间 `2025-08-15`，共 `5764` 款游戏。
+- Whisker Wanderlust: The Wondrous Journey
+- Age of Wonders 4: Premium Edition, v1.011.001.110650 + 11 DLCs + Windows 7 Fix
+- Deadzone: Rogue – v1.0.0.5
+- Yield! Fall of Rome – v1.0.1.3 + Bonus Content
+- Echoes of the End
+- Abyssus – v1.0.1.50519 + Brinehunter Pack DLC
+- Abyss Eschaton Survivors – v1.00.10
+- Senua’s Saga: Hellblade II Enhanced, Build 19131828 + Bonus Soundtrack
+- Call of Duty: Modern Warfare II, v9.7 (Campaign) / v9.40 (Multiplayer/Co-Op with Bots) + 8 Bonus Soundtracks
+- Terra Nil: Deluxe Edition, v1.2.5 (Heatwave Update) + Bonus Content
 - ……
 
 ## 感谢
