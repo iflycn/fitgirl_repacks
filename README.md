@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-08-15`，共 `5764` 款游戏。
-- Whisker Wanderlust: The Wondrous Journey
-- Age of Wonders 4: Premium Edition, v1.011.001.110650 + 11 DLCs + Windows 7 Fix
-- Deadzone: Rogue – v1.0.0.5
-- Yield! Fall of Rome – v1.0.1.3 + Bonus Content
-- Echoes of the End
-- Abyssus – v1.0.1.50519 + Brinehunter Pack DLC
-- Abyss Eschaton Survivors – v1.00.10
-- Senua’s Saga: Hellblade II Enhanced, Build 19131828 + Bonus Soundtrack
-- Call of Duty: Modern Warfare II, v9.7 (Campaign) / v9.40 (Multiplayer/Co-Op with Bots) + 8 Bonus Soundtracks
-- Terra Nil: Deluxe Edition, v1.2.5 (Heatwave Update) + Bonus Content
+最后更新时间 `2025-08-22`，共 `5784` 款游戏。
+- Nova Hearts
+- Photo Studio Simulator – v0.98
+- City of Springs
+- The Rogue Prince of Persia – v1.0.2
+- Drop Duchy – v1.1.15 + 2 DLCs/Bonuses
+- Sword of the Sea
+- The Last Ski Trip – v3.0
+- UNDER NIGHT IN-BIRTH II Sys:Celes, v1.32.00 + 5 DLCs
+- Dice Gambit: Support Bundle + Bonus Soundtrack
+- Way of the Hunter: Ultimate Edition – v1.28 + 14 DLCs/Bonuses + Windows 7 Fix
 - ……
 
 ## 感谢
