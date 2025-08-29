@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-08-22`，共 `5784` 款游戏。
-- Nova Hearts
-- Photo Studio Simulator – v0.98
-- City of Springs
-- The Rogue Prince of Persia – v1.0.2
-- Drop Duchy – v1.1.15 + 2 DLCs/Bonuses
-- Sword of the Sea
-- The Last Ski Trip – v3.0
-- UNDER NIGHT IN-BIRTH II Sys:Celes, v1.32.00 + 5 DLCs
-- Dice Gambit: Support Bundle + Bonus Soundtrack
-- Way of the Hunter: Ultimate Edition – v1.28 + 14 DLCs/Bonuses + Windows 7 Fix
+最后更新时间 `2025-08-29`，共 `5805` 款游戏。
+- Starship Troopers: Terran Command – Complete Bundle, v5.1.2 + 2 DLCs
+- TurretGirls – v1.0.0a
+- Space Adventure Cobra: The Awakening – Digital Deluxe Edition, v0.01.28 + 2 DLCs/Bonuses
+- Keep Driving – v1.2.0.0e
+- HorrorToleranceTest – v1.0.1
+- Echo Point Nova: Digital Deluxe Edition, v2.1 + Bonus OST
+- METAL GEAR SOLID Δ: SNAKE EATER – Digital Deluxe Edition, v1.1.1 + Sneaking DLC Pack
+- Atelier Yumia: The Alchemist of Memories & the Envisioned Land – Deluxe Edition, v1.42 + 36 DLCs
+- Altheia: The Wrath of Aferi – v1.005
+- Spirit City: Lofi Sessions – All-in Bundle, v2.0.1 + 4 DLCs
 - ……
 
 ## 感谢
