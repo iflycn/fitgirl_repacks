@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-08-29`，共 `5805` 款游戏。
-- Starship Troopers: Terran Command – Complete Bundle, v5.1.2 + 2 DLCs
-- TurretGirls – v1.0.0a
-- Space Adventure Cobra: The Awakening – Digital Deluxe Edition, v0.01.28 + 2 DLCs/Bonuses
-- Keep Driving – v1.2.0.0e
-- HorrorToleranceTest – v1.0.1
-- Echo Point Nova: Digital Deluxe Edition, v2.1 + Bonus OST
-- METAL GEAR SOLID Δ: SNAKE EATER – Digital Deluxe Edition, v1.1.1 + Sneaking DLC Pack
-- Atelier Yumia: The Alchemist of Memories & the Envisioned Land – Deluxe Edition, v1.42 + 36 DLCs
-- Altheia: The Wrath of Aferi – v1.005
-- Spirit City: Lofi Sessions – All-in Bundle, v2.0.1 + 4 DLCs
+最后更新时间 `2025-09-05`，共 `5831` 款游戏。
+- Poly Plaza ULTIMATE – v1.0.13
+- Cronos: The New Dawn – Deluxe Edition, v20250831_2044-321866 + 3 DLCs/Bonuses
+- Hollow Knight: Silksong – v1.0.28324
+- Secrets of Grindea – v1.10h + 2 DLCs/Bonuses
+- The Knightling – v1.0.5
+- AUTO-CRISIS
+- Cavalry Girls: Complete Bundle, v2.3.2379 + 2 DLCs
+- METAL EDEN
+- Otherskin
+- Fresh Tracks + Soundtrack Bundle, v1.0.202508231748 + Bonus OST
 - ……
 
 ## 感谢
