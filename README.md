@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-09-05`，共 `5831` 款游戏。
-- Poly Plaza ULTIMATE – v1.0.13
-- Cronos: The New Dawn – Deluxe Edition, v20250831_2044-321866 + 3 DLCs/Bonuses
-- Hollow Knight: Silksong – v1.0.28324
-- Secrets of Grindea – v1.10h + 2 DLCs/Bonuses
-- The Knightling – v1.0.5
-- AUTO-CRISIS
-- Cavalry Girls: Complete Bundle, v2.3.2379 + 2 DLCs
-- METAL EDEN
-- Otherskin
-- Fresh Tracks + Soundtrack Bundle, v1.0.202508231748 + Bonus OST
+最后更新时间 `2025-09-12`，共 `5844` 款游戏。
+- The Artifact Protocol – v1.0.1
+- Ammo and Oxygen – v1.0 (Release)
+- Firefighting Simulator: Ignite – v1.003.28253.87380 + 2 DLCs
+- Temple of the Green Moon
+- Kingdom Come: Deliverance II, v1.4 + 6 DLCs/Bonuses
+- Star Fire: Eternal Cycle – v1.25.271
+- Lawn Mowing Simulator: Complete Edition, v1.0.15.0 + 3 DLCs
+- Bad Cheese – v1.00.035 + Bonus Artbook
+- Steel Division 2: Total Conflict Edition – v165547 + 37 DLCs
+- Mortal Sin – v1.0 (Release)
 - ……
 
 ## 感谢
