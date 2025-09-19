@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-09-12`，共 `5844` 款游戏。
-- The Artifact Protocol – v1.0.1
-- Ammo and Oxygen – v1.0 (Release)
-- Firefighting Simulator: Ignite – v1.003.28253.87380 + 2 DLCs
-- Temple of the Green Moon
-- Kingdom Come: Deliverance II, v1.4 + 6 DLCs/Bonuses
-- Star Fire: Eternal Cycle – v1.25.271
-- Lawn Mowing Simulator: Complete Edition, v1.0.15.0 + 3 DLCs
-- Bad Cheese – v1.00.035 + Bonus Artbook
-- Steel Division 2: Total Conflict Edition – v165547 + 37 DLCs
-- Mortal Sin – v1.0 (Release)
+最后更新时间 `2025-09-19`，共 `5870` 款游戏。
+- Baki Hanma: Blood Arena – v1.0.4
+- Formula Legends
+- Lost Skies – v1.0.79-50871 (Release) + DLC + Island Creator v2.18
+- Ravenswatch: Supporter Edition, v1.03.01.00.26879 + 9 DLCs/Bonuses
+- Greedland – v1.0.02
+- MagicCar of Delicious – v1.0.2
+- M.A.S.S. Builder – v1.0.2
+- House Builder: Pack and Punch Bundle, Build 15-09-2025 + 8 DLCs
+- Deep Rock Galactic: Survivor – Gold Edition, v1.0.40P + 2 DLCs
+- 9-Bit Armies: A Bit Too Far – v864064 + Going Rogue! DLC v864396
 - ……
 
 ## 感谢
