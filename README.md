@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-09-19`，共 `5870` 款游戏。
-- Baki Hanma: Blood Arena – v1.0.4
-- Formula Legends
-- Lost Skies – v1.0.79-50871 (Release) + DLC + Island Creator v2.18
-- Ravenswatch: Supporter Edition, v1.03.01.00.26879 + 9 DLCs/Bonuses
-- Greedland – v1.0.02
-- MagicCar of Delicious – v1.0.2
-- M.A.S.S. Builder – v1.0.2
-- House Builder: Pack and Punch Bundle, Build 15-09-2025 + 8 DLCs
-- Deep Rock Galactic: Survivor – Gold Edition, v1.0.40P + 2 DLCs
-- 9-Bit Armies: A Bit Too Far – v864064 + Going Rogue! DLC v864396
+最后更新时间 `2025-09-26`，共 `5891` 款游戏。
+- The House of Tesla
+- Hades II – v1.131346 + Bonus OST*
+- Car Dealer Simulator – Hotfix #80
+- Agatha Christie: Death on the Nile – v1.2.0
+- Wander Stars – v1.1.22
+- Deconstruction Simulator – v8028
+- SWORN: Deluxe Edition, v1.0.0.1.1002 + 4 DLCs
+- Class of Heroes 3 Remaster
+- Project Warlock II – v1.0.1.26
+- Tourist Bus Simulator – v1.10.81093 + 16 DLCs
 - ……
 
 ## 感谢
