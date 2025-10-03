@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-09-26`，共 `5891` 款游戏。
-- The House of Tesla
-- Hades II – v1.131346 + Bonus OST*
-- Car Dealer Simulator – Hotfix #80
-- Agatha Christie: Death on the Nile – v1.2.0
-- Wander Stars – v1.1.22
-- Deconstruction Simulator – v8028
-- SWORN: Deluxe Edition, v1.0.0.1.1002 + 4 DLCs
-- Class of Heroes 3 Remaster
-- Project Warlock II – v1.0.1.26
-- Tourist Bus Simulator – v1.10.81093 + 16 DLCs
+最后更新时间 `2025-10-03`，共 `5926` 款游戏。
+- Mind Diver – v1.0.93
+- CORPOREAL
+- Aquarist: Full Experience Bundle – Build 19940524 + 4 DLCs
+- Harmony in the Wild
+- Atelier Resleriana: The Red Alchemist & the White Guardian – Digital Deluxe Edition + 6 DLCs
+- Rift of the NecroDancer: Ultimate Pack, v1.8.0 + 31 DLCs/Bonuses
+- Star Crafter
+- Hotel Magnate – v1.0 (Release)
+- Alien: Rogue Incursion Evolved Edition – Deluxe + 2 DLCs
+- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 240925-3 + 8 DLCs
 - ……
 
 ## 感谢
