@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-10-03`，共 `5926` 款游戏。
-- Mind Diver – v1.0.93
-- CORPOREAL
-- Aquarist: Full Experience Bundle – Build 19940524 + 4 DLCs
-- Harmony in the Wild
-- Atelier Resleriana: The Red Alchemist & the White Guardian – Digital Deluxe Edition + 6 DLCs
-- Rift of the NecroDancer: Ultimate Pack, v1.8.0 + 31 DLCs/Bonuses
-- Star Crafter
-- Hotel Magnate – v1.0 (Release)
-- Alien: Rogue Incursion Evolved Edition – Deluxe + 2 DLCs
-- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 240925-3 + 8 DLCs
+最后更新时间 `2025-10-10`，共 `5936` 款游戏。
+- Little Nightmares: Enhanced Edition, Build 19756066 + 3 DLCs
+- Yooka-Replaylee
+- Gas Station Simulator: DLC Pack Bundle – v1.0.2.46528 + 7 DLCs
+- Mushroom Hunter World – v1.0.2
+- Haste – v1.7.c + Bonus Soundtrack
+- SOPA: Tale of the Stolen Potato
+- Abyssus: Brine Edition – v1.1.52656 + 3 DLCs/Bonuses
+- WARNO: Gold Edition, v169014 + 18 DLCs
+- Éalú
+- Burden of Command – v1.0.84
 - ……
 
 ## 感谢
