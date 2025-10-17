@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-10-10`，共 `5936` 款游戏。
-- Little Nightmares: Enhanced Edition, Build 19756066 + 3 DLCs
-- Yooka-Replaylee
-- Gas Station Simulator: DLC Pack Bundle – v1.0.2.46528 + 7 DLCs
-- Mushroom Hunter World – v1.0.2
-- Haste – v1.7.c + Bonus Soundtrack
-- SOPA: Tale of the Stolen Potato
-- Abyssus: Brine Edition – v1.1.52656 + 3 DLCs/Bonuses
-- WARNO: Gold Edition, v169014 + 18 DLCs
-- Éalú
-- Burden of Command – v1.0.84
+最后更新时间 `2025-10-17`，共 `5964` 款游戏。
+- AI LIMIT: Deluxe Edition, v1.1.001 + 2 DLCs
+- The Gretlow Tapes
+- Total War: Three Kingdoms – Collection, v1.7.1 Build 17847.0 + 10 DLCs
+- Lords of Ravage – v1.0-1-26
+- Age of Empires II: Definitive Edition – v101.103.26969.0 (#158041) + 14 DLCs/Bonuses + Windows 7 Fix
+- Forgotten Seas
+- TEKKEN 8: Ultimate Edition, v2.06.01 + 23 DLCs + Bonus Soundtrack
+- Stronghold Crusader: Definitive Edition – v2.01 + DLC
+- Sledders – v1.1.2
+- Decide 4 God + Bonus OST
 - ……
 
 ## 感谢
