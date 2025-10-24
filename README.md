@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-10-17`，共 `5964` 款游戏。
-- AI LIMIT: Deluxe Edition, v1.1.001 + 2 DLCs
-- The Gretlow Tapes
-- Total War: Three Kingdoms – Collection, v1.7.1 Build 17847.0 + 10 DLCs
-- Lords of Ravage – v1.0-1-26
-- Age of Empires II: Definitive Edition – v101.103.26969.0 (#158041) + 14 DLCs/Bonuses + Windows 7 Fix
-- Forgotten Seas
-- TEKKEN 8: Ultimate Edition, v2.06.01 + 23 DLCs + Bonus Soundtrack
-- Stronghold Crusader: Definitive Edition – v2.01 + DLC
-- Sledders – v1.1.2
-- Decide 4 God + Bonus OST
+最后更新时间 `2025-10-24`，共 `5990` 款游戏。
+- THIEF’S SHELTER
+- Plants vs. Zombies: Replanted – v1.2.1173.0
+- Farthest Frontier – v1.0.0 (Release)
+- Double Dragon Revive: Deluxe Edition – v1.1.0.0 + DLC
+- Shining Resonance Refrain – v1.00.1618 (Proper Crack)
+- NINJA GAIDEN 4: Deluxe Edition – v1.0.1.0 + 2 DLCs
+- Dreams of Another
+- Lone Soul: Supporter Edition – v1.0.0D + DLC
+- Ascend – v1.1.2
+- Vampire: The Masquerade – Bloodlines 2: Deluxe Edition, v46047 + 3 DLCs
 - ……
 
 ## 感谢
