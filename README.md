@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-10-24`，共 `5990` 款游戏。
-- THIEF’S SHELTER
-- Plants vs. Zombies: Replanted – v1.2.1173.0
-- Farthest Frontier – v1.0.0 (Release)
-- Double Dragon Revive: Deluxe Edition – v1.1.0.0 + DLC
-- Shining Resonance Refrain – v1.00.1618 (Proper Crack)
-- NINJA GAIDEN 4: Deluxe Edition – v1.0.1.0 + 2 DLCs
-- Dreams of Another
-- Lone Soul: Supporter Edition – v1.0.0D + DLC
-- Ascend – v1.1.2
-- Vampire: The Masquerade – Bloodlines 2: Deluxe Edition, v46047 + 3 DLCs
+最后更新时间 `2025-10-31`，共 `6014` 款游戏。
+- Bleak Haven – v1.2.1
+- Session: Skate Sim – Year One & Two Edition, v1.0.6.37 + 10 DLCs
+- Franchise Hockey Manager 12 – v12.1 Build 19
+- Deep Rock Galactic: Deluxe Edition, v1.39.125673.0 + 13 DLCs/Bonuses
+- Wreckreation – v1.0.1.144924
+- Beneath – v0.9920f + DLC
+- Crusader Kings III: Collection, v1.18.0 (Crane) + 25 DLCs + Windows 7 Fix
+- FUNKYHEART
+- eFootball PES 2020 – v1.08.01/Data Pack v8.00
+- BLEACH: Rebirth of Souls, v1.30 + 9 DLCs
 - ……
 
 ## 感谢
