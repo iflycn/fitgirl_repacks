@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-10-31`，共 `6014` 款游戏。
-- Bleak Haven – v1.2.1
-- Session: Skate Sim – Year One & Two Edition, v1.0.6.37 + 10 DLCs
-- Franchise Hockey Manager 12 – v12.1 Build 19
-- Deep Rock Galactic: Deluxe Edition, v1.39.125673.0 + 13 DLCs/Bonuses
-- Wreckreation – v1.0.1.144924
-- Beneath – v0.9920f + DLC
-- Crusader Kings III: Collection, v1.18.0 (Crane) + 25 DLCs + Windows 7 Fix
-- FUNKYHEART
-- eFootball PES 2020 – v1.08.01/Data Pack v8.00
-- BLEACH: Rebirth of Souls, v1.30 + 9 DLCs
+最后更新时间 `2025-11-07`，共 `6049` 款游戏。
+- Nun of your Business
+- UltraGirl Alters
+- Maid of Salvation
+- Biped 2 – v1.7 + Online Co-op
+- Smalland: Survive the Wilds & Soundtracks, v2.1.1_39_1164cd83 + Bonus OST
+- Master of Command: Supporter Edition – Build 20565020 + DLC
+- Syberia – Remastered
+- Vellum – v1.2.0
+- Drop Dead: The Cabin
+- Simon the Sorcerer Origins: Deluxe Edition – v1.0.1.10242025.58358 + 3 DLCs/Bonuses
 - ……
 
 ## 感谢
