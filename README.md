@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-11-14`，共 `6065` 款游戏。
-- Wartorn – v1.0 (Release)
-- Store Wars: Multiplayer Shop Simulator
-- Surviving Mars: Relaunched – v1.0.0.382125 + DLC
-- Dispatch: Digital Deluxe Edition & Soundtrack – v1.0.16218 + All 8 Episodes + Bonus DLCs
-- My Little Puppy – v1.0.2517.124175
-- Sanatorium: A Mental Asylum Simulator – v0.99 + Bonus OST
-- Jotunnslayer: Hordes of Hel – Collector’s Edition, v1.0.5.89760 + 5 DLCs/Bonuses
-- Restaurats: Deluxe Edition – v0.19.0.19 + 3 DLCs/Bonuses
-- The Séance of Blake Manor – v1.0.619.815r
-- LIZARDS MUST DIE 2: Deluxe Pack, Build 20619534 + 4 DLCs/Bonuses
+最后更新时间 `2025-11-21`，共 `6085` 款游戏。
+- King of Bones – v1.3.1
+- Commandos: Origins – Deluxe Edition & Classified Archives, v1.5.0.88858 + 4 DLCs/Bonuses
+- Ambrosia Sky: Act One + Bonus OST
+- SpongeBob SquarePants: Titans of the Tide – v1.2.0.0 (802403) + 2 DLCs
+- The Lord of the Rings: Return to Moria – Collector’s Edition, v1.6.2.217289 + 8 DLCs/Bonuses
+- Winds of Arcana: Ruination
+- Inn Tycoon – Version 42 (Release)
+- For The King II: Deluxe Edition – v1.10.8 + 4 DLCs/Bonuses
+- Little Corners: Complete Bundle, v1.1.1 + Bonus OST
+- BEYBLADE X EVOBATTLE: Deluxe Edition – v1.0.0 + 6 DLCs
 - ……
 
 ## 感谢
