@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-11-21`，共 `6085` 款游戏。
-- King of Bones – v1.3.1
-- Commandos: Origins – Deluxe Edition & Classified Archives, v1.5.0.88858 + 4 DLCs/Bonuses
-- Ambrosia Sky: Act One + Bonus OST
-- SpongeBob SquarePants: Titans of the Tide – v1.2.0.0 (802403) + 2 DLCs
-- The Lord of the Rings: Return to Moria – Collector’s Edition, v1.6.2.217289 + 8 DLCs/Bonuses
-- Winds of Arcana: Ruination
-- Inn Tycoon – Version 42 (Release)
-- For The King II: Deluxe Edition – v1.10.8 + 4 DLCs/Bonuses
-- Little Corners: Complete Bundle, v1.1.1 + Bonus OST
-- BEYBLADE X EVOBATTLE: Deluxe Edition – v1.0.0 + 6 DLCs
+最后更新时间 `2025-11-28`，共 `6110` 款游戏。
+- TORMENTOR
+- SpaceBourne 2 – v1.0.0
+- Monster Hunter Stories 2: Wings of Ruin – Deluxe Edition, v1.6.1 + 24 DLCs/Bonuses
+- FIFA 21 – v1.0.72.32477 [Monkey Repack]
+- Foolish Mortals: Deluxe Edition – v1.1 + 3 Bonus DLCs
+- Cash Cleaner Simulator – v1.3.1.643 + 3 DLCs/Bonuses
+- Unmourned – v1.0
+- Construction Simulator 4: Pocket Edition
+- Dave The Diver: Deluxe Edition – v1.0.5.1749 + 3 DLCs + Bonus Content
+- Project Motor Racing – v1.5.0.0 + 2 DLCs
 - ……
 
 ## 感谢
