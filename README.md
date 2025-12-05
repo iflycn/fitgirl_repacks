@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-11-28`，共 `6110` 款游戏。
-- TORMENTOR
-- SpaceBourne 2 – v1.0.0
-- Monster Hunter Stories 2: Wings of Ruin – Deluxe Edition, v1.6.1 + 24 DLCs/Bonuses
-- FIFA 21 – v1.0.72.32477 [Monkey Repack]
-- Foolish Mortals: Deluxe Edition – v1.1 + 3 Bonus DLCs
-- Cash Cleaner Simulator – v1.3.1.643 + 3 DLCs/Bonuses
-- Unmourned – v1.0
-- Construction Simulator 4: Pocket Edition
-- Dave The Diver: Deluxe Edition – v1.0.5.1749 + 3 DLCs + Bonus Content
-- Project Motor Racing – v1.5.0.0 + 2 DLCs
+最后更新时间 `2025-12-05`，共 `6132` 款游戏。
+- ELDEN RING NIGHTREIGN: Deluxe Edition, v1.03/v1.03.1 + 5 DLCs/Bonuses
+- A Pizza Delivery – v1.2.4 + Bonus OST
+- Ayasa: Shadows of Silence – v1.0
+- Yes, Your Grace 2: Snowfall – v1.1.1
+- Abra-Cooking-Dabra – v1.0.13r1
+- LOST EMBER: Rekindled Edition – Build 20965378 + Legendary Souls DLC
+- Panzer Corps 2: Complete Edition – v1.17.1 + 17 DLCs + Bonus Content
+- Vaudeville – v1.1.3
+- Slime Rancher 2: Game & Soundtrack, v1.0.3 + Bonus OST (2 volumes)
+- Princess of the Water Lilies – v1.0.0(14)
 - ……
 
 ## 感谢
