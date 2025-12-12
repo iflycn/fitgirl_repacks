@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-12-05`，共 `6132` 款游戏。
-- ELDEN RING NIGHTREIGN: Deluxe Edition, v1.03/v1.03.1 + 5 DLCs/Bonuses
-- A Pizza Delivery – v1.2.4 + Bonus OST
-- Ayasa: Shadows of Silence – v1.0
-- Yes, Your Grace 2: Snowfall – v1.1.1
-- Abra-Cooking-Dabra – v1.0.13r1
-- LOST EMBER: Rekindled Edition – Build 20965378 + Legendary Souls DLC
-- Panzer Corps 2: Complete Edition – v1.17.1 + 17 DLCs + Bonus Content
-- Vaudeville – v1.1.3
-- Slime Rancher 2: Game & Soundtrack, v1.0.3 + Bonus OST (2 volumes)
-- Princess of the Water Lilies – v1.0.0(14)
+最后更新时间 `2025-12-12`，共 `6158` 款游戏。
+- Titans of the Past
+- Night Swarm – v1.0.1
+- ICARUS: Complete the Set Bundle, v2.3.20.145714 + 18 DLCs
+- Flotsam – v1.0.0/v1.0.0f5
+- Business Heroes: Street Grub – v1.0.0 (Release)
+- Rugby 25 – v1.0.4016
+- The Monster Breeder – v1.07
+- Tiny Bunny + Bonus OST
+- Skate Story
+- The Art of Reflection + Bonus OST
 - ……
 
 ## 感谢
