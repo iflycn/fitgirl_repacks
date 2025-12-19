@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-12-12`，共 `6158` 款游戏。
-- Titans of the Past
-- Night Swarm – v1.0.1
-- ICARUS: Complete the Set Bundle, v2.3.20.145714 + 18 DLCs
-- Flotsam – v1.0.0/v1.0.0f5
-- Business Heroes: Street Grub – v1.0.0 (Release)
-- Rugby 25 – v1.0.4016
-- The Monster Breeder – v1.07
-- Tiny Bunny + Bonus OST
-- Skate Story
-- The Art of Reflection + Bonus OST
+最后更新时间 `2025-12-19`，共 `6173` 款游戏。
+- Mutant Football League 2
+- Just Cause 3: XXL Edition – v1.05 Denuvoless + All DLCs
+- Zombie Diner Simulator – v0.65
+- Death Howl: Deluxe Edition – v1.0.0.1 + 2 Bonus DLCs
+- Snow Plowing Simulator: Ski Resort Edition – v2511261103 + DLC
+- SANABI – v1.3.51 + A Haunted Day DLC + Bonus OST
+- Pawn Planet – v1.0
+- Isles of Sea and Sky: Game and Soundtrack Bundle – v2.5d + Bonus OST
+- NINJA GAIDEN: Ragebound – Soundtrack Edition, vCS37895 + Bonus OST
+- Storm Lancers – v1.1.0.16
 - ……
 
 ## 感谢
