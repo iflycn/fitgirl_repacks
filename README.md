@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-12-19`，共 `6173` 款游戏。
-- Mutant Football League 2
-- Just Cause 3: XXL Edition – v1.05 Denuvoless + All DLCs
-- Zombie Diner Simulator – v0.65
-- Death Howl: Deluxe Edition – v1.0.0.1 + 2 Bonus DLCs
-- Snow Plowing Simulator: Ski Resort Edition – v2511261103 + DLC
-- SANABI – v1.3.51 + A Haunted Day DLC + Bonus OST
-- Pawn Planet – v1.0
-- Isles of Sea and Sky: Game and Soundtrack Bundle – v2.5d + Bonus OST
-- NINJA GAIDEN: Ragebound – Soundtrack Edition, vCS37895 + Bonus OST
-- Storm Lancers – v1.1.0.16
+最后更新时间 `2025-12-26`，共 `6184` 款游戏。
+- Oddsparks: An Automation Adventure – Ultimate Edition, v1.0.S31386 + 6 DLCs
+- Vampiress: Eternal Duet
+- Pure Badminton
+- Hot Rod Mayhem – v1.3.16
+- The Temple of Elemental Evil – (Re-release)
+- Lorn’s Lure, Build 21185492 + 2 DLCs/Bonuses
+- Utawarerumono: ZAN – Complete Bundle + 17 DLCs
+- Project Hunt: Hunter’s Collection – Build 21226542 + 3 DLCs
+- Ranch Farm and Store Simulator – v1.0.0 (Release)
+- Tunguska: The Visitation – Final Cut, v1.95-1 + 7 DLCs
 - ……
 
 ## 感谢
