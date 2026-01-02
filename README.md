@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2025-12-26`，共 `6184` 款游戏。
-- Oddsparks: An Automation Adventure – Ultimate Edition, v1.0.S31386 + 6 DLCs
-- Vampiress: Eternal Duet
-- Pure Badminton
-- Hot Rod Mayhem – v1.3.16
-- The Temple of Elemental Evil – (Re-release)
-- Lorn’s Lure, Build 21185492 + 2 DLCs/Bonuses
-- Utawarerumono: ZAN – Complete Bundle + 17 DLCs
-- Project Hunt: Hunter’s Collection – Build 21226542 + 3 DLCs
-- Ranch Farm and Store Simulator – v1.0.0 (Release)
-- Tunguska: The Visitation – Final Cut, v1.95-1 + 7 DLCs
+最后更新时间 `2026-01-02`，共 `6194` 款游戏。
+- Ogu and the Secret Forest: Deluxe Edition – v1.3a + 2 DLCs/Bonuses
+- Grand Theft Auto V Enhanced – Build 1013.20/Online 1.72
+- Grand Theft Auto V / GTA 5 (Legacy) – v1.0.3725.0/1.72 + Bonus Content
+- FIFA 22 – v1.0.77.45722 [Monkey Repack]
+- Head’s Adventures: chibichibi
+- ServiceIT: You can do IT – v1.1.1 + DLC
+- Aaero2: Black Razor Edition – v1.52 + 3 DLCs/Bonuses
+- Formula Legends – Build 21082031 + 5 DLCs
+- I Sell Lemonade – v1.05
+- Coastal Kitchen Simulator
 - ……
 
 ## 感谢
