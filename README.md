@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-02-27`，共 `6273` 款游戏。
-- Railroad Corporation 2 – v1.0.19116 + DLC
-- The Last Citadel – v1.0.0.4.3
-- INAZUMA ELEVEN: Victory Road – Deluxe Edition, v4.0.1 + 2 DLCs
-- The Slaverian Trucker – v20/02/26
-- Mini Cozy Room: Lo-Fi – All in One Bundle, v1.05.01 + 8 DLCs
-- Seclusa – v1.0.4i
-- Placid Plastic Deck: A Quiet Quest – v1.0.4 + Bonus OST
-- UnderRail Complete – v1.3.1.2 + 2 DLCs
-- FINAL FANTASY VII (2026 Re-release) – Steam Build 21140793/GOG v2.0 v1
-- Warhammer 40,000: Battlesector – Deluxe Edition, v1.6.001 + 11 DLCs/Bonuses
+最后更新时间 `2026-03-06`，共 `6296` 款游戏。
+- Planet of Lana II – v1.0.13 (MS Store) / v1.0.14 (Steam) + DLC
+- MotorCubs RC
+- Docked: Deluxe Edition + 3 DLCs
+- The Last Faith – v2.03 + Awakened Ancients DLC
+- Esoteric Ebb – v1.0.3
+- Fall of an Empire – v1.240
+- NINJA GAIDEN 4: Deluxe Edition – v1.0.4.0 + 3 DLCs
+- Police Simulator: Patrol Officers – Ultimate Duty Edition, v22.2.2-rc2+rel.571-404150 + 20 DLCs
+- Rotwood – Build 715483
+- iRacing Arcade
 - ……
 
 ## 感谢
