@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-03-06`，共 `6296` 款游戏。
-- Planet of Lana II – v1.0.13 (MS Store) / v1.0.14 (Steam) + DLC
-- MotorCubs RC
-- Docked: Deluxe Edition + 3 DLCs
-- The Last Faith – v2.03 + Awakened Ancients DLC
-- Esoteric Ebb – v1.0.3
-- Fall of an Empire – v1.240
-- NINJA GAIDEN 4: Deluxe Edition – v1.0.4.0 + 3 DLCs
-- Police Simulator: Patrol Officers – Ultimate Duty Edition, v22.2.2-rc2+rel.571-404150 + 20 DLCs
-- Rotwood – Build 715483
-- iRacing Arcade
+最后更新时间 `2026-03-13`，共 `6314` 款游戏。
+- Runeborn – v1.0.10
+- Out of Sight Ultimate- v1.1.93 + Stage Fright DLC
+- FATAL FRAME II: Crimson Butterfly REMAKE – Digital Deluxe Edition, v1.02.01 + 4 DLCs/Bonuses
+- GreedFall: The Dying World – Deluxe Edition, v1.0.0.0 + 4 DLCs/Bonuses
+- The House of Tesla: Definitive Edition – v109
+- TerraScape: Complete Edition – v2.0.0.0 + 2 DLCs/Bonuses
+- Stellarcraft – v1.0.0.0 + Bonus OST
+- Lost and Found Co.
+- Astro Fighters 2 – v1.9.9.9.9
+- Masks of the Void: Origins
 - ……
 
 ## 感谢
