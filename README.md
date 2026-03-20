@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-03-13`，共 `6314` 款游戏。
-- Runeborn – v1.0.10
-- Out of Sight Ultimate- v1.1.93 + Stage Fright DLC
-- FATAL FRAME II: Crimson Butterfly REMAKE – Digital Deluxe Edition, v1.02.01 + 4 DLCs/Bonuses
-- GreedFall: The Dying World – Deluxe Edition, v1.0.0.0 + 4 DLCs/Bonuses
-- The House of Tesla: Definitive Edition – v109
-- TerraScape: Complete Edition – v2.0.0.0 + 2 DLCs/Bonuses
-- Stellarcraft – v1.0.0.0 + Bonus OST
-- Lost and Found Co.
-- Astro Fighters 2 – v1.9.9.9.9
-- Masks of the Void: Origins
+最后更新时间 `2026-03-20`，共 `6337` 款游戏。
+- DEATH STRANDING 2: ON THE BEACH – Digital Deluxe Edition, v1.0.48 + 2 DLCs + 2 Bonus OSTs
+- Talisman: Digital 5th Edition – Complete, Build 86150 + 9 DLCs/Bonuses
+- Kaiju Cracking Corporation – v2.1.6
+- Whispers of the Eyeless – v1.0 (Release)
+- Heretic’s Fork – v1.3.3.26 + 4 DLCs/Bonuses
+- Pizza Slice – v0.60.69
+- Starship Troopers: Ultimate Bug War! – v1.1.1
+- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 170326-1 + 9 DLCs
+- Thomas & Friends: Wonders of Sodor – Deluxe Edition + James Add-On DLC
+- Solateria – v1.0.11
 - ……
 
 ## 感谢
