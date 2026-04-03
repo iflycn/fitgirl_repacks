@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-03-27`，共 `6363` 款游戏。
-- Star Wars Outlaws: Ultimate Edition – v1.7 (8779316.TU7) + All DLCs + 3 Bonus OSTs
-- Workers & Resources: Soviet Republic – Complete, v1.1.1.6 + 4 DLCs/Bonuses
-- Conductor: Eternal Service + CrackFix
-- Monster Hunter Stories 3: Twisted Reflection – v1.0.03 + 18 DLCs
-- Retro Rewind: Video Store Simulator – Build 1966 + Bonus OST
-- RoadCraft: 1-Year Anniversary Edition, v6.0.623412/623492 + 6 DLCs
-- Resident Evil Requiem: Deluxe Edition – Build 22277314 + 3 DLCs/Bonuses
-- Overthrown
-- Assassin’s Creed Shadows – v1.1.9 + Claws of Awaji DLC + 5 Bonus OSTs
-- Royal Revolt Survivors – v1.0.0 + Bonus OST
+最后更新时间 `2026-04-03`，共 `6379` 款游戏。
+- Legacy of Kain: Ascendance – v1.0.5.2
+- Mega Man Star Force Legacy Collection + DLC
+- Valor of Man – v1.0.0 Build 163
+- EA SPORTS FC 26 – v1.5.2/v1.0.133.58379 + Offline DLCs [Monkey Repack]
+- Crime Scene Cleaner – v4.0.0C (Act 2 Update) + Bonus OST
+- GRIME II – v1.0.17360c
+- Need for Speed Unbound: Ultimate Collection, v1.0.8.2549 (Volume 9 Update) + All DLCs + Bonus OST
+- The Artisan of Glimmith
+- The Scourge | Tai Ương – v1.0.0 (Release)
+- Monster Hunter Wilds: Premium Deluxe Edition – v1.041.03.00 + 191 DLCs/Bonuses
 - ……
 
 ## 感谢
