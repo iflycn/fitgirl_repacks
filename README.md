@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-04-03`，共 `6379` 款游戏。
-- Legacy of Kain: Ascendance – v1.0.5.2
-- Mega Man Star Force Legacy Collection + DLC
-- Valor of Man – v1.0.0 Build 163
-- EA SPORTS FC 26 – v1.5.2/v1.0.133.58379 + Offline DLCs [Monkey Repack]
-- Crime Scene Cleaner – v4.0.0C (Act 2 Update) + Bonus OST
-- GRIME II – v1.0.17360c
-- Need for Speed Unbound: Ultimate Collection, v1.0.8.2549 (Volume 9 Update) + All DLCs + Bonus OST
-- The Artisan of Glimmith
-- The Scourge | Tai Ương – v1.0.0 (Release)
-- Monster Hunter Wilds: Premium Deluxe Edition – v1.041.03.00 + 191 DLCs/Bonuses
+最后更新时间 `2026-04-10`，共 `6415` 款游戏。
+- Resident Evil Requiem: Deluxe Edition – Build 22277314 + 3 DLCs/Bonuses
+- Hogwarts Legacy: Digital Deluxe Edition – Build 1613387 + 22 DLCs/Bonuses [Muggle Repack]
+- Samson
+- Anno 117: Pax Romana – v1.4.1.1629710 + 2 DLCs + Bonus OST
+- Field of Glory: Kingdoms – Complete Bundle, v1.0.8 + 2 DLCs
+- Vampire: The Masquerade – Bloodlines 2: Deluxe Edition, v49474 + 3 DLCs
+- The Bus – v1.0.94413 + DLC
+- Hozy
+- Persona 3 Reload: Digital Premium Edition – v1.11 + 11 DLCs/Bonuses
+- NUTMEG! A Nostalgic Deckbuilding Football Manager
 - ……
 
 ## 感谢
