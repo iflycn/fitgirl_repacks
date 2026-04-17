@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-04-10`，共 `6415` 款游戏。
-- Resident Evil Requiem: Deluxe Edition – Build 22277314 + 3 DLCs/Bonuses
-- Hogwarts Legacy: Digital Deluxe Edition – Build 1613387 + 22 DLCs/Bonuses [Muggle Repack]
-- Samson
-- Anno 117: Pax Romana – v1.4.1.1629710 + 2 DLCs + Bonus OST
-- Field of Glory: Kingdoms – Complete Bundle, v1.0.8 + 2 DLCs
-- Vampire: The Masquerade – Bloodlines 2: Deluxe Edition, v49474 + 3 DLCs
-- The Bus – v1.0.94413 + DLC
-- Hozy
-- Persona 3 Reload: Digital Premium Edition – v1.11 + 11 DLCs/Bonuses
-- NUTMEG! A Nostalgic Deckbuilding Football Manager
+最后更新时间 `2026-04-17`，共 `6434` 款游戏。
+- City Transport Simulator 2026: Expert Edition – v2026.0.0 + 11 DLCs
+- Stellar Tactics – v1.0 (Release) + Supporter Pack DLC
+- PGA TOUR 2K25: Pro Edition – Build 21251646 + 14 DLCs*
+- Formula Legends – v1.4.5 + 7 DLCs
+- Sid Meier’s Civilization VII: Settler’s Edition – v1.3.2 (1217315) + 34 DLCs
+- PowerWash Simulator 2, v1.2.1.167 + Adventure Time Pack DLC
+- Soul Hackers 2: Digital Premium Edition – v1.03 + 17 DLCs/Bonuses
+- Cooking Simulator 2: Better Together – v1.4.6717bcc
+- REPLACED: Supporter Edition – v1.0.1073 (Steam) / v1.0.1030 (MS Store) + Bonus OST
+- Marvel’s Midnight Suns: Legendary Edition – Build CL-930465 + 8 DLCs/Bonuses
 - ……
 
 ## 感谢
