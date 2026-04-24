@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-04-17`，共 `6434` 款游戏。
-- City Transport Simulator 2026: Expert Edition – v2026.0.0 + 11 DLCs
-- Stellar Tactics – v1.0 (Release) + Supporter Pack DLC
-- PGA TOUR 2K25: Pro Edition – Build 21251646 + 14 DLCs*
-- Formula Legends – v1.4.5 + 7 DLCs
-- Sid Meier’s Civilization VII: Settler’s Edition – v1.3.2 (1217315) + 34 DLCs
-- PowerWash Simulator 2, v1.2.1.167 + Adventure Time Pack DLC
-- Soul Hackers 2: Digital Premium Edition – v1.03 + 17 DLCs/Bonuses
-- Cooking Simulator 2: Better Together – v1.4.6717bcc
-- REPLACED: Supporter Edition – v1.0.1073 (Steam) / v1.0.1030 (MS Store) + Bonus OST
-- Marvel’s Midnight Suns: Legendary Edition – Build CL-930465 + 8 DLCs/Bonuses
+最后更新时间 `2026-04-24`，共 `6459` 款游戏。
+- Assassin’s Creed Valhalla: Complete Edition, v1.7.0 + All DLCs* + Bonus Content
+- Vampire Crawlers: The Turbo Wildcard from Vampire Survivors – v1.4.0 + Bonus OST
+- Hearts of Iron IV: Ultimate Bundle – v1.18.0.0.858d + 57 DLCs/Bonuses + Windows 7 Fix
+- RAIDOU Remastered: The Mystery of the Soulless Army – Digital Deluxe Edition, v1.12 + 9 DLCs
+- ShantyTown – v1.0.03
+- GRID Legends: Deluxe Edition – v6.2.80.660 + 8 DLCs
+- Jay and Silent Bob: Chronic Blunt Punch
+- YAR: Forgotten Throne + DLC
+- Valiant Hearts: Coming Home – Build 19066588
+- Aquarist: Full Experience Bundle – Build 22498847 + 6 DLCs
 - ……
 
 ## 感谢
