@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-04-24`，共 `6459` 款游戏。
-- Assassin’s Creed Valhalla: Complete Edition, v1.7.0 + All DLCs* + Bonus Content
-- Vampire Crawlers: The Turbo Wildcard from Vampire Survivors – v1.4.0 + Bonus OST
-- Hearts of Iron IV: Ultimate Bundle – v1.18.0.0.858d + 57 DLCs/Bonuses + Windows 7 Fix
-- RAIDOU Remastered: The Mystery of the Soulless Army – Digital Deluxe Edition, v1.12 + 9 DLCs
-- ShantyTown – v1.0.03
-- GRID Legends: Deluxe Edition – v6.2.80.660 + 8 DLCs
-- Jay and Silent Bob: Chronic Blunt Punch
-- YAR: Forgotten Throne + DLC
-- Valiant Hearts: Coming Home – Build 19066588
-- Aquarist: Full Experience Bundle – Build 22498847 + 6 DLCs
+最后更新时间 `2026-05-01`，共 `6475` 款游戏。
+- Construction Simulator: Titanium Edition – v1.0.0.4349.173243 + 17 DLCs
+- MotoGP 26 + 2 DLCs
+- SHINOBI: Art of Vengeance – Digital Deluxe Edition, Build 22016198 + 6 DLCs/Bonuses
+- INDUSTRIA 2 – v1.0.8
+- Stronghold Crusader: Definitive Edition – v2.7 + 3 DLCs
+- Rabbids: Party of Legends – v1.0.001
+- Commandos: Origins – Deluxe Edition & Classified Archives, v1.6.0.96933 + 5 DLCs/Bonuses
+- Kristala – v1.0.6 + 3 DLCs
+- UBOAT: Supporter Bundle – v2026.1 + 2 DLCs
+- The Spotter: Dig or Die – v1.0.1
 - ……
 
 ## 感谢
