@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-05-01`，共 `6475` 款游戏。
-- Construction Simulator: Titanium Edition – v1.0.0.4349.173243 + 17 DLCs
-- MotoGP 26 + 2 DLCs
-- SHINOBI: Art of Vengeance – Digital Deluxe Edition, Build 22016198 + 6 DLCs/Bonuses
-- INDUSTRIA 2 – v1.0.8
-- Stronghold Crusader: Definitive Edition – v2.7 + 3 DLCs
-- Rabbids: Party of Legends – v1.0.001
-- Commandos: Origins – Deluxe Edition & Classified Archives, v1.6.0.96933 + 5 DLCs/Bonuses
-- Kristala – v1.0.6 + 3 DLCs
-- UBOAT: Supporter Bundle – v2026.1 + 2 DLCs
-- The Spotter: Dig or Die – v1.0.1
+最后更新时间 `2026-05-08`，共 `6501` 款游戏。
+- The Coma 3: Bloodlines – v1.1.1 + 9 DLCs/Bonuses
+- Judgment – v1.12 + Bonus Soundtracks
+- Scriptorium: Master of Manuscripts – Deluxe Edition, v1.0.0 + Music & Art Pack DLC
+- Conan Exiles Enhanced: Complete Edition, v361894 + All DLCs/Bonuses
+- KuloNiku: Bowl Up! – Deluxe Edition – v1.0.3 + 2 Bonus DLCs
+- Inner Voice – v1.0.0.1
+- Speedball – v1.2.8.0
+- Deep Rock Galactic: Survivor – Complete Edition, v1.0.236P + 3 DLCs
+- MUSYNX:RETURN
+- EA SPORTS FC 25 – v1.0.127.15348 [Monkey Repack]
 - ……
 
 ## 感谢
