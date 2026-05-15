@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-05-08`，共 `6501` 款游戏。
-- The Coma 3: Bloodlines – v1.1.1 + 9 DLCs/Bonuses
-- Judgment – v1.12 + Bonus Soundtracks
-- Scriptorium: Master of Manuscripts – Deluxe Edition, v1.0.0 + Music & Art Pack DLC
-- Conan Exiles Enhanced: Complete Edition, v361894 + All DLCs/Bonuses
-- KuloNiku: Bowl Up! – Deluxe Edition – v1.0.3 + 2 Bonus DLCs
-- Inner Voice – v1.0.0.1
-- Speedball – v1.2.8.0
-- Deep Rock Galactic: Survivor – Complete Edition, v1.0.236P + 3 DLCs
-- MUSYNX:RETURN
-- EA SPORTS FC 25 – v1.0.127.15348 [Monkey Repack]
+最后更新时间 `2026-05-15`，共 `6518` 款游戏。
+- PRAGMATA: Deluxe Edition + 3 DLCs/Bonuses
+- Football Manager 2024 – v24.4.2 + DLC
+- Age of Reforging: The Freelands – v1.21d + Supporter Pack DLC
+- The Ember Guardian: Supporter Bundle – v1.0.1.7 + 2 DLCs/Bonuses
+- Dome Keeper: Deluxe Edition – v5.0.0 + 4 DLCs/Bonuses
+- Werewolf: The Inner Beast + Unrated DLC
+- Swordhaven: Iron Conspiracy – v1.1 + 4 DLCs/Bonuses
+- Project Songbird – v1.2.3 + Bonus OST
+- Touhou Mystia’s Izakaya: Full Bundle! – v4.4.0d + 11 DLCs/Bonuses
+- Whisker Wanderlust: Unwritten Chapter
 - ……
 
 ## 感谢
