@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-05-15`，共 `6518` 款游戏。
-- PRAGMATA: Deluxe Edition + 3 DLCs/Bonuses
-- Football Manager 2024 – v24.4.2 + DLC
-- Age of Reforging: The Freelands – v1.21d + Supporter Pack DLC
-- The Ember Guardian: Supporter Bundle – v1.0.1.7 + 2 DLCs/Bonuses
-- Dome Keeper: Deluxe Edition – v5.0.0 + 4 DLCs/Bonuses
-- Werewolf: The Inner Beast + Unrated DLC
-- Swordhaven: Iron Conspiracy – v1.1 + 4 DLCs/Bonuses
-- Project Songbird – v1.2.3 + Bonus OST
-- Touhou Mystia’s Izakaya: Full Bundle! – v4.4.0d + 11 DLCs/Bonuses
-- Whisker Wanderlust: Unwritten Chapter
+最后更新时间 `2026-05-22`，共 `6545` 款游戏。
+- Phonopolis
+- Magical Princess – v1.0.1
+- Super Mega Baseball 4: Ballpark Edition, Build 17068112 + 3 DLCs
+- Gunboat God + Bonus OST
+- Trash Goblin: Complete Bundle – v1.5.9527 + 8 DLCs/Bonuses
+- Fun with Ragdolls Plus – v1.2.3
+- Tale of Immortal: Premium Edition, v1.2.113.259 + 4 DLCs/Bonuses
+- Eden Crafters – v1.0f
+- NEW MONOPOLY – v1.10
+- Psychic Kung Fu Master – v1.01 + Supporter Pack DLC
 - ……
 
 ## 感谢
