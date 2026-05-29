@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-05-22`，共 `6545` 款游戏。
-- Phonopolis
-- Magical Princess – v1.0.1
-- Super Mega Baseball 4: Ballpark Edition, Build 17068112 + 3 DLCs
-- Gunboat God + Bonus OST
-- Trash Goblin: Complete Bundle – v1.5.9527 + 8 DLCs/Bonuses
-- Fun with Ragdolls Plus – v1.2.3
-- Tale of Immortal: Premium Edition, v1.2.113.259 + 4 DLCs/Bonuses
-- Eden Crafters – v1.0f
-- NEW MONOPOLY – v1.10
-- Psychic Kung Fu Master – v1.01 + Supporter Pack DLC
+最后更新时间 `2026-05-29`，共 `6568` 款游戏。
+- Assassin’s Creed: Odyssey – v.1.5.6 HV / v1.5.3 Non-HV + DLCs + Bonus OSTs
+- Vultures: Savengers of Death – Supporter Edition, v1.0.0 + DLC
+- Dreamcore: Rabbit Hole -v1.0.3
+- ServiceIT: You can do IT – Fix Everything Bundle, v1.2.0 + 2 DLCs
+- Medieval Crafter: Blacksmith – v1.0.0
+- Castle Craft – v1.0.0#2671 + Bonus OST
+- Roots of Pacha + Soundtrack Bundle, v1.3.1 (1) + Bonus OST
+- Cavalry Girls: Complete Bundle & Skin Pack – v2.6.2801 + 4 DLCs
+- Librarian: Tidy Up the Arcane Library! – v1.0.2
+- 007 First Light
 - ……
 
 ## 感谢
