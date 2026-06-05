@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-05-29`，共 `6568` 款游戏。
-- Assassin’s Creed: Odyssey – v.1.5.6 HV / v1.5.3 Non-HV + DLCs + Bonus OSTs
-- Vultures: Savengers of Death – Supporter Edition, v1.0.0 + DLC
-- Dreamcore: Rabbit Hole -v1.0.3
-- ServiceIT: You can do IT – Fix Everything Bundle, v1.2.0 + 2 DLCs
-- Medieval Crafter: Blacksmith – v1.0.0
-- Castle Craft – v1.0.0#2671 + Bonus OST
-- Roots of Pacha + Soundtrack Bundle, v1.3.1 (1) + Bonus OST
-- Cavalry Girls: Complete Bundle & Skin Pack – v2.6.2801 + 4 DLCs
-- Librarian: Tidy Up the Arcane Library! – v1.0.2
-- 007 First Light
+最后更新时间 `2026-06-05`，共 `6597` 款游戏。
+- Need for Speed: Payback – Deluxe Edition, v1.0.51.41148 HV / v1.0.51.15364 Non_HV + DLCs
+- Dread Neighbor
+- FINAL FANTASY VII REBIRTH: Digital Deluxe Edition, v1.005 + 15 DLCs/Bonuses (Monkey Repack)
+- The 7th Guest Remake – v1.2.14011.0
+- Realm of Ink – v0.18.04
+- CarX Street: Deluxe Edition – v1.13.0 + 5 DLCs
+- A Bumpy Ride – v1.0.5
+- Psalm 2
+- Pioneers of Pagonia: Builder’s Edition – v1.3.0-11768 + 5 DLCs/Bonuses
+- Madden NFL 23 – v1.0.65.59268
 - ……
 
 ## 感谢
