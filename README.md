@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-06-05`，共 `6597` 款游戏。
-- Need for Speed: Payback – Deluxe Edition, v1.0.51.41148 HV / v1.0.51.15364 Non_HV + DLCs
-- Dread Neighbor
-- FINAL FANTASY VII REBIRTH: Digital Deluxe Edition, v1.005 + 15 DLCs/Bonuses (Monkey Repack)
-- The 7th Guest Remake – v1.2.14011.0
-- Realm of Ink – v0.18.04
-- CarX Street: Deluxe Edition – v1.13.0 + 5 DLCs
-- A Bumpy Ride – v1.0.5
-- Psalm 2
-- Pioneers of Pagonia: Builder’s Edition – v1.3.0-11768 + 5 DLCs/Bonuses
-- Madden NFL 23 – v1.0.65.59268
+最后更新时间 `2026-06-12`，共 `6623` 款游戏。
+- Starship Troopers: Terran Command – Complete Bundle, v6.4.0 + 3 DLCs
+- Madden NFL 21 – v1.0.59.48236
+- Terrinoth: Heroes of Descent – v1.0.8593.47804
+- Teardown: Deluxe Edition, v2.0.3 + 6 DLCs
+- Black Jacket – v0.1.0.214 + DLC
+- Far Cry: New Dawn – Deluxe Edition, v1.0.8 HV / v1.0.5 Non-HV + All DLCs + HD Texture Pack
+- Voidling Bound: Space Wrangler Edition – v76030 + 2 Bonus DLCs
+- Hyper Empire – Build 23334769 + DLC
+- Dancing Line: New Player Pack – v1.0.6 Build 1133 + 2 DLCs/Bonuses
+- The Planet Crafter: Deluxe Bundle, v2.008 + 3 DLCs/Bonuses
 - ……
 
 ## 感谢
