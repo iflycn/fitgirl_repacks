@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-06-12`，共 `6623` 款游戏。
-- Starship Troopers: Terran Command – Complete Bundle, v6.4.0 + 3 DLCs
-- Madden NFL 21 – v1.0.59.48236
-- Terrinoth: Heroes of Descent – v1.0.8593.47804
-- Teardown: Deluxe Edition, v2.0.3 + 6 DLCs
-- Black Jacket – v0.1.0.214 + DLC
-- Far Cry: New Dawn – Deluxe Edition, v1.0.8 HV / v1.0.5 Non-HV + All DLCs + HD Texture Pack
-- Voidling Bound: Space Wrangler Edition – v76030 + 2 Bonus DLCs
-- Hyper Empire – Build 23334769 + DLC
-- Dancing Line: New Player Pack – v1.0.6 Build 1133 + 2 DLCs/Bonuses
-- The Planet Crafter: Deluxe Bundle, v2.008 + 3 DLCs/Bonuses
+最后更新时间 `2026-06-19`，共 `6658` 款游戏。
+- The Adventures of Elliot: The Millennium Tales – Digital Deluxe Edition + 8 DLCs/Unlocks
+- Dave The Diver: Collection Bundle, v1.0.6.2018 + 5 DLCs/Bonuses
+- Icaria – v1.0.0 (Release)
+- Age of Wonders 4: Collector’s Bundle, v1.015.002.122980 + 16 DLCs
+- Crushed In Time: Deluxe Edition – v1.0.5796 + Bonus OST
+- Wingspan: Special Edition – v1.8.1156.0602.1153 + 8 DLCs/Bonuses
+- Log Away – v1.5 + 2 DLCs
+- Space Hulk: Ascension – Ultimate Pack, v1.4.2b2-14263 + 4 DLCs
+- Wound Man: Supporter Bundle – v1.0 Release + Bonus DLC
+- Blood West: Dead Man’s Edition, v4.4.1 + DLC
 - ……
 
 ## 感谢
