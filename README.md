@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-06-26`，共 `6671` 款游戏。
-- DEAD OR ALIVE 6 Last Round – v1.00a + 443 DLCs
-- Besiege: Master Engineer Edition, v1.9.0_25238 + 4 DLCs/Bonuses
-- MOLE – v1.0.7
-- Rabbit and Steel – v2.0.2.7 + 2 Bonus Soundtracks
-- COPA CITY – v1932 + 2 DLCs
-- Hogwarts Legacy: Digital Deluxe Edition – Build 1613387 + 22 DLCs/Bonuses [Muggle Repack, Non-HV + HV]
-- Car Dealer Simulator + Up 2 You Pack Bundle, v1.0.0.5272 + DLC
-- Tabletop Tavern – v0.6.11.3
-- Across The Obelisk: Complete Bundle – v1.7.6 + 16 DLCs
-- SWAPMEAT – Build 911 + 5 DLCs/Bonuses
+最后更新时间 `2026-07-03`，共 `6682` 款游戏。
+- Borderlands 4: Deluxe Edition, v1.8.1 + 8 DLCs + Bonus OST
+- The House of Da Vinci – Enhanced, Build 23502956 + 2 Bonus DLCs
+- Farming Simulator 25: Year 1 Bundle, v1.20.0.0 (46522/78394) + 11 DLCs
+- House Party: Total Indulgence Bundle – v1.5.2.14040 + 9 DLCs
+- Iron Sky: Invasion – UHD Commander Edition, v2.0 UHD + 5 DLCs/Bonuses
+- TEVI: Super Bundle, v2.00 + 3 DLCs/Bonuses
+- F1 Manager 2024: Deluxe Edition – v1.11.0.498643 + 4 DLCs
+- Formula Legends – v1.6.5 + 9 DLCs
+- Abiotic Factor: Supporter’s Edition – v1.3.0.26036 + 3 DLCs
+- Relief – v2.66
 - ……
 
 ## 感谢
