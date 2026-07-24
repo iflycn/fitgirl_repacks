@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-07-17`，共 `6705` 款游戏。
-- Femme Fatality – Build 24204068
-- Denshattack!: Digital Deluxe Edition – v1.2.6.1g + 2 DLC/Bonuses
-- Runix: Pinball Roguelike – v1.15
-- Easy Red 2: All Fronts – v2.0.7 + 5 DLCs
-- Everest: Real Climbing Simulator – Build 24171169
-- The Mound: Omen of Cthulhu – Deluxe Edition, v.CL34308 + 4 DLCs/Bonuses
-- Urban Strife – v1.0.0 (Release)
-- The Crimson Maid
-- My Dream Setup: Complete Edition – Build 24206446 + 7 DLCs/Bonuses
-- City Bus Simulator 2026
+最后更新时间 `2026-07-24`，共 `6726` 款游戏。
+- The Outer Worlds 2 – v1.2.0.1 + 5 DLCs/Bonuses
+- Nightmare Frontier – v1.0.0.1607
+- Survivalist: Invisible Strain – v278
+- Tavern Legends – v1.0.1 + Bardsongs DLC
+- Slackers: Carts of Glory – v0.9992
+- LIFTED – v1.0.8438
+- Firefighting Simulator: Ignite – Year 1 Edition, v1.0060.34593.104230 + 8 DLCs
+- The Life and Suffering of Prince Jerian: Supporter Edition + 3 Bonus DLCs
+- TIEBREAK: Official Game of the ATP and WTA – Grand Slam Edition, v1.0.6399 + 3 DLCs (Re-repack)
+- Samurai: Ronin’s Path
 - ……
 
 ## 感谢
