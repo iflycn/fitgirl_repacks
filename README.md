@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-07-31`，共 `6744` 款游戏。
-- Solium Infernum: Collector’s Edition – v1.1.4p1_86416 + DLC + Bonus Soundtrack
-- Company of Heroes 3: Ultimate Bundle, v2.5.0.48652 + 9 DLCs
-- City States: Medieval – v1.02
-- Docked: Deluxe Edition, v1.5.1 + 5 DLCs
-- Yasuke Simulator: Digital Deluxe Edition, Build 24405904 + 4 DLCs
-- Shards of Order: Supporter Edition – v1.0f7 + DLC
-- AFL 26 – v1.0.2804
-- Endacopia
-- My Memory of Us – Build 24312359 (Story Mode Update)
-- Dodo Duckie
+最后更新时间 `2026-08-07`，共 `6766` 款游戏。
+- Headquarters: Cold War – v1.01.11 + Operation Pacify DLC
+- Retrowave 2 + 3 DLCs/Bonuses
+- Korea. IL-2 Series: Premium Edition – v1.002 + 3 DLCs
+- Aether & Iron: Deluxe Edition, v1.1.677 + 2 Bonus DLCs
+- Akatori
+- Ostranauts – v1.0.0.7 + Bonus OST
+- Wingspan: Special Edition – v1.8.1170.0722.1321 + 9 DLCs/Bonuses
+- Cyber Farmer – v1.0.02
+- Car Dealer Simulator + Up 2 You Pack Bundle, v1.0.0.5272 Hotfix #231 + DLC
+- Kusan: City of Wolves
 - ……
 
 ## 感谢
