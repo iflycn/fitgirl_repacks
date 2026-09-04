@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-08-07`，共 `6766` 款游戏。
-- Headquarters: Cold War – v1.01.11 + Operation Pacify DLC
-- Retrowave 2 + 3 DLCs/Bonuses
-- Korea. IL-2 Series: Premium Edition – v1.002 + 3 DLCs
-- Aether & Iron: Deluxe Edition, v1.1.677 + 2 Bonus DLCs
-- Akatori
-- Ostranauts – v1.0.0.7 + Bonus OST
-- Wingspan: Special Edition – v1.8.1170.0722.1321 + 9 DLCs/Bonuses
-- Cyber Farmer – v1.0.02
-- Car Dealer Simulator + Up 2 You Pack Bundle, v1.0.0.5272 Hotfix #231 + DLC
-- Kusan: City of Wolves
+最后更新时间 `2026-09-04`，共 `6770` 款游戏。
+- LET IT DIE: Offline Edition – v5.0.1.0.0
+- Moonlighter 2: The Endless Vault – Deluxe Edition, v1.0.42.3 + 3 DLCs/Bonuses
+- Lady Death Demonicron – v0.240
+- Onirism – Hotfix 07/17/2026 (Build 24248659)
+- Broken Arrow: Complete Bundle – v1.2.0 + 4 DLCs/Bonuses
+- Crimson Moon – v1.0.0.160034 + Partial DLC
+- Salvation: Echoes of War – v1.2.5878
+- Big Ambitions – v1.0 (Build 3670, Release)
+- Shadow Dungeon – v1.0.0 (Release)
+- METAL GEAR SOLID 2: Sons of Liberty – Master Collection Version, v2.1.0 + Japanese DLC
 - ……
 
 ## 感谢
