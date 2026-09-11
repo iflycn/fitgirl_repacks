@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-09-04`，共 `6770` 款游戏。
-- LET IT DIE: Offline Edition – v5.0.1.0.0
-- Moonlighter 2: The Endless Vault – Deluxe Edition, v1.0.42.3 + 3 DLCs/Bonuses
-- Lady Death Demonicron – v0.240
-- Onirism – Hotfix 07/17/2026 (Build 24248659)
-- Broken Arrow: Complete Bundle – v1.2.0 + 4 DLCs/Bonuses
-- Crimson Moon – v1.0.0.160034 + Partial DLC
-- Salvation: Echoes of War – v1.2.5878
-- Big Ambitions – v1.0 (Build 3670, Release)
-- Shadow Dungeon – v1.0.0 (Release)
-- METAL GEAR SOLID 2: Sons of Liberty – Master Collection Version, v2.1.0 + Japanese DLC
+最后更新时间 `2026-09-11`，共 `6786` 款游戏。
+- Alchemy Factory – v1.0.4917 (Release)
+- EA SPORTS FC 26 – v1.6.6/v1.0.139.20381 + Offline DLCs + The World’s Game [Monkey Repack]
+- No Man’s Sky – v7.0 (178763, Cosmos Update) + 2 DLCs + Bonus OST
+- HOT WHEELS Infinite Rush + Just for Fun Pack DLC
+- Against the Storm: Complete Edition, v1.10.4R + 4 DLCs/Bonuses
+- CODE VEIN II: Ultimate Edition, v2.0.1.0 (Denuvoless) + 7 DLCs
+- Valheim – v1.0.7 (Release) + 2 DLCs/Bonuses
+- Mega Man Star Force Legacy Collection – Build 23297979 (Denuvoless) + 4 DLCs
+- Honeycomb: The World Beyond
+- Homura Hime: Soundtrack Bundle, v1.0.8 + Bonus OST
 - ……
 
 ## 感谢
