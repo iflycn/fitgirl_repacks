@@ -136,5 +136,15 @@ if len(data_list) >= previous_count:
     with open(html_file, "w", encoding="utf-8") as f:
         f.write(template_content)
     print(f"HTML 模板 {html_file} 已更新")
+
+    # 清理历史文件
+    all_files = [os.path.join(save_path, f) for f in os.listdir(save_path) if f.startswith("repacks-") and f.endswith('.csv')]
+    all_files.sort(key=lambda p: os.path.basename(p), reverse=True)
+    for old_file in all_files[3:]:
+        try:
+            os.remove(old_file)
+            print(f"历史文件 {old_file} 已删除")
+        except OSError as e:
+            print(f"删除文件 {old_file} 失败: {e}")
 else:
     print("\n爬取内容不完整，放弃数据更新")
