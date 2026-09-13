@@ -147,6 +147,10 @@ a {
   margin-top: 10px;
 }
 
+.data-info li {
+  list-style-position: inside;
+}
+
 /* 分页按钮样式 */
 #pagination {
   margin-bottom: 20px;
