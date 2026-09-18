@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-09-11`，共 `6786` 款游戏。
-- Alchemy Factory – v1.0.4917 (Release)
-- EA SPORTS FC 26 – v1.6.6/v1.0.139.20381 + Offline DLCs + The World’s Game [Monkey Repack]
-- No Man’s Sky – v7.0 (178763, Cosmos Update) + 2 DLCs + Bonus OST
-- HOT WHEELS Infinite Rush + Just for Fun Pack DLC
-- Against the Storm: Complete Edition, v1.10.4R + 4 DLCs/Bonuses
-- CODE VEIN II: Ultimate Edition, v2.0.1.0 (Denuvoless) + 7 DLCs
-- Valheim – v1.0.7 (Release) + 2 DLCs/Bonuses
-- Mega Man Star Force Legacy Collection – Build 23297979 (Denuvoless) + 4 DLCs
-- Honeycomb: The World Beyond
-- Homura Hime: Soundtrack Bundle, v1.0.8 + Bonus OST
+最后更新时间 `2026-09-18`，共 `6790` 款游戏。
+- The Legend of Fancy Realm Remake – v2.1.2
+- BLACKWOOD: Supporter Edition – Act I + DLC
+- StarCraft: Remastered – v1.23.10.13515
+- Sporting Goods Shop – v1.0 (Release)
+- ChainStaff: Ultimate Edition, v1.2.0.12 + 3 DLCs/Bonuses
+- Ragnar – v1.0 (Release)
+- Anime Shop Simulator: Otaku Edition, v0.1.1 (Release) + 2 DLCs
+- Kristala – v1.2.4 + 4 DLCs/Bonuses
+- Welcome to Elderfield + Bonus OST
+- Palworld – v1.0.4.102642 + Bonus OST
 - ……
 
 ## 感谢
