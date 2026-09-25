@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-09-18`，共 `6790` 款游戏。
-- The Legend of Fancy Realm Remake – v2.1.2
-- BLACKWOOD: Supporter Edition – Act I + DLC
-- StarCraft: Remastered – v1.23.10.13515
-- Sporting Goods Shop – v1.0 (Release)
-- ChainStaff: Ultimate Edition, v1.2.0.12 + 3 DLCs/Bonuses
-- Ragnar – v1.0 (Release)
-- Anime Shop Simulator: Otaku Edition, v0.1.1 (Release) + 2 DLCs
-- Kristala – v1.2.4 + 4 DLCs/Bonuses
-- Welcome to Elderfield + Bonus OST
-- Palworld – v1.0.4.102642 + Bonus OST
+最后更新时间 `2026-09-25`，共 `6806` 款游戏。
+- Vagrus: The Riven Realms – Praetor Edition, v1.4.00.0913T + 9 DLCs/Bonuses
+- Graveyard Keeper 2 – v1.004.2
+- SiN Reloaded – v1.01
+- Terminator: Dark Fate – Defiance: Complete Bundle, v1.09.1220 + 4 DLCs/Bonuses + Windows 7 Fix
+- Another Eden Begins + 2 DLCs
+- Realm of Ink – v1.1
+- Ved: Recure – v0.0.1865
+- Escape Simulator 2 – v22719r + 2 DLCs/Bonuses
+- Brave New Wonders
+- Shape of Dreams – v1.4.0.13 + DLC
 - ……
 
 ## 感谢
