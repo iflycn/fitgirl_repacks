@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-10-02`，共 `6824` 款游戏。
-- Way of the Hunter 2 – v1.0.0.212045 + 3 DLCs
-- Little Nightmares III: Deluxe Edition, Build 25370921 + 7 DLCs
-- Nivalis Nights
-- Crusader Kings III: Collection, v1.20.0.2 (Crozier) + 35 DLCs + Windows 7 Fix
-- CODEX MORTIS – v3.6.757
-- Eastern Era – v1.2.0
-- Rivage – v1.1.6
-- Chained Together – v1.10.19 + Supporter Pack DLC
-- lily’s world XD
-- Seafarer: The Ship Sim – Voyager Edition, v1.0.0.2651_7 + 3 DLCs/Bonuses
+最后更新时间 `2026-10-09`，共 `6840` 款游戏。
+- Gear.Club Unlimited 3 + 4 DLCs
+- The Adventures of Elliot: The Millennium Tales – Digital Deluxe Edition, Build 24232671 + 8 DLCs/Unlocks
+- Neon Abyss 2: Deluxe Edition – v2026.10.8 + 3 DLCs
+- Ale & Tale Tavern – v1.6.16 + Bonus Soundtrack
+- STUNTBOOST + Supporter Pack DLC
+- Atomfall: Complete Edition – v1.2.2 + 5 DLCs
+- Gamer Stop Simulator – v1.0 (Release)
+- End of Abyss – v22954
+- MXGP 26: Fox Holeshot Edition + 2 DLCs
+- Land of Glarefall – v1.0.1
 - ……
 
 ## 感谢
