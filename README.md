@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-10-09`，共 `6840` 款游戏。
-- Gear.Club Unlimited 3 + 4 DLCs
-- The Adventures of Elliot: The Millennium Tales – Digital Deluxe Edition, Build 24232671 + 8 DLCs/Unlocks
-- Neon Abyss 2: Deluxe Edition – v2026.10.8 + 3 DLCs
-- Ale & Tale Tavern – v1.6.16 + Bonus Soundtrack
-- STUNTBOOST + Supporter Pack DLC
-- Atomfall: Complete Edition – v1.2.2 + 5 DLCs
-- Gamer Stop Simulator – v1.0 (Release)
-- End of Abyss – v22954
-- MXGP 26: Fox Holeshot Edition + 2 DLCs
-- Land of Glarefall – v1.0.1
+最后更新时间 `2026-10-16`，共 `6854` 款游戏。
+- Warhammer 40,000: Boltgun 2 – v1.2.0.0+775
+- ContractVille & All DLCs Bundle – v1.9.2 + 5 DLCs
+- Order of the Sinking Star
+- Valor Mortis + DLC
+- Forza Motorsport 6: Apex – Premium Edition, v2.8.18.1000 + 49 DLCs
+- Stick It to the Stickman – v1.0.474
+- Towerfolk – v1.0 (Release)
+- Project Spark – v1.21.50909.2
+- PAPERHEAD – v47 + 2 DLCs/Bonuses
+- Bubsy 4D: Digital Pawsome Edition, v1.2.1 + Bonus Content
 - ……
 
 ## 感谢
