@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-10-23`，共 `6870` 款游戏。
-- Mycopunk: Supporter Edition – v2.0 Build 911 + 2 DLCs/Bonuses
-- PROHIBEAST: Soundtrack Edition, v1.0.5 + Bonus OST
-- DRIVECLUB – v1.28 EU/US + All DLCs (Recompiled for PC v0.2.5)
-- Denizen – v1.0.2
-- SnowRunner: 4-Year Anniversary Edition, v44.0 (Season 19 Update) + 50 DLCs + Chill Nature Beats Soundtrack
-- Stupid Never Dies: Glorious Idiot Edition + DLC
-- Final Fantasy XV: Pocket Edition – v1.4.524.2 + All 10 Chapters
-- Heroes of Science and Fiction – v1.0.11.1 + 3 DLCs/Bonuses
-- Plan B: Terraform – v1.1.0 Build 1348 + 2 DLCs/Bonuses
-- Ready or Not: Digital Deluxe Edition, v142058 (v1.5.3) + v66884 + 6 DLCs/Bonuses
+最后更新时间 `2026-10-30`，共 `6895` 款游戏。
+- Planet Zoo 2: Deluxe Edition – v1.0.7.1031590 + 2 DLCs
+- Village in the Shade: Deluxe Edition – v1.30 + 2 Bonus DLCs
+- Low-Budget Repairs, v1.7.17 + Bonus App
+- In Falsus – v1.0.5 + DLC
+- Diplomacy is Not an Option – v1.0.187r + 3 DLCs/Bonuses
+- STAR WARS: Galactic Racer – Deluxe Edition, vCL386500 + 3 DLCs/Bonuses
+- Farming Simulator 25: Year 1 Bundle, v1.25.0.0 (49226/83394) + 13 DLCs
+- Remothered: Red Nun’s Legacy – v74e0052.7 + Bonus Content
+- Ship Explorer – Build 26115786 + 3 DLCs
+- Battleplan – v1.0.4
 - ……
 
 ## 感谢
