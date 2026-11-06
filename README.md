@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-10-30`，共 `6895` 款游戏。
-- Planet Zoo 2: Deluxe Edition – v1.0.7.1031590 + 2 DLCs
-- Village in the Shade: Deluxe Edition – v1.30 + 2 Bonus DLCs
-- Low-Budget Repairs, v1.7.17 + Bonus App
-- In Falsus – v1.0.5 + DLC
-- Diplomacy is Not an Option – v1.0.187r + 3 DLCs/Bonuses
-- STAR WARS: Galactic Racer – Deluxe Edition, vCL386500 + 3 DLCs/Bonuses
-- Farming Simulator 25: Year 1 Bundle, v1.25.0.0 (49226/83394) + 13 DLCs
-- Remothered: Red Nun’s Legacy – v74e0052.7 + Bonus Content
-- Ship Explorer – Build 26115786 + 3 DLCs
-- Battleplan – v1.0.4
+最后更新时间 `2026-11-06`，共 `6911` 款游戏。
+- Godzilla: Destroy All Monsters Melee Remastered – Digital Deluxe Edition + DLC
+- Age of Wonders 4: 2026 Collector’s Bundle – v1.017.001.126767 + 18 DLCs
+- Lightyear Frontier & Soundtrack Bundle – v1.0.2540 + 2 DLCs/Bonuses
+- SAVE AMANI
+- Silica – v1.0.15 (Release)
+- Cairn: Deluxe Edition – v1.1.593s_2337 + 4 DLCs/Bonuses
+- Warrior Cats: Clans of the Forest + 2 DLCs
+- Distant Worlds 2 – v1.3.7.9 + 5 DLCs
+- COP BASTARD – v1.00b3
+- Probably Stolen: Cyberpunk Shopkeeper Sim, v1.00-REV2 + Bonus OST
 - ……
 
 ## 感谢
