@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-11-06`，共 `6911` 款游戏。
-- Godzilla: Destroy All Monsters Melee Remastered – Digital Deluxe Edition + DLC
-- Age of Wonders 4: 2026 Collector’s Bundle – v1.017.001.126767 + 18 DLCs
-- Lightyear Frontier & Soundtrack Bundle – v1.0.2540 + 2 DLCs/Bonuses
-- SAVE AMANI
-- Silica – v1.0.15 (Release)
-- Cairn: Deluxe Edition – v1.1.593s_2337 + 4 DLCs/Bonuses
-- Warrior Cats: Clans of the Forest + 2 DLCs
-- Distant Worlds 2 – v1.3.7.9 + 5 DLCs
-- COP BASTARD – v1.00b3
-- Probably Stolen: Cyberpunk Shopkeeper Sim, v1.00-REV2 + Bonus OST
+最后更新时间 `2026-11-13`，共 `6927` 款游戏。
+- STAR WARS: Galactic Racer – Deluxe Edition, vCL386500 + 3 DLCs/Bonuses
+- Takeover 2: Deluxe Edition + Bonus OSTs
+- Hydro Thunder Hurricane – v1.2.0.0
+- DreamWorks Shrek 2 Remastered
+- Euro Truck Simulator 2 – v1.62.2.1s + 106 DLCs + Multiplayer
+- Ashes of the Singularity II – v1.0.0.207 (284635)
+- Sledders – v1.1.7
+- Legend of Zelda: Ocarina of Time – v1.1.1 + Switch 2 Emulator
+- Conan Exiles Enhanced: Complete Edition, v3.0.1/v379176 + 17 DLCs/Bonuses
+- HYPNOS
 - ……
 
 ## 感谢
