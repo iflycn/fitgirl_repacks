@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-11-13`，共 `6927` 款游戏。
-- STAR WARS: Galactic Racer – Deluxe Edition, vCL386500 + 3 DLCs/Bonuses
-- Takeover 2: Deluxe Edition + Bonus OSTs
-- Hydro Thunder Hurricane – v1.2.0.0
-- DreamWorks Shrek 2 Remastered
-- Euro Truck Simulator 2 – v1.62.2.1s + 106 DLCs + Multiplayer
-- Ashes of the Singularity II – v1.0.0.207 (284635)
-- Sledders – v1.1.7
-- Legend of Zelda: Ocarina of Time – v1.1.1 + Switch 2 Emulator
-- Conan Exiles Enhanced: Complete Edition, v3.0.1/v379176 + 17 DLCs/Bonuses
-- HYPNOS
+最后更新时间 `2026-11-20`，共 `6947` 款游戏。
+- Revenge of the Mage – v1.0.0_301
+- Disney Dreamlight Valley: Ultimate Edition – v1.26.1.633 + 5 DLCs
+- Dice Hoarder
+- Chained Beasts – v1.0.1
+- Crusader Kings III: Collection, v1.21.0 (Florin) + 36 DLCs + Windows 7 Fix
+- Shipping Store Simulator 2037 – v1.0.5
+- Ticket to Ride: Complete Your Journey Bundle – v1.11.3-766920 + 16 DLCs/Bonuses
+- BrokenLore: DON’T LIE + Bonus OST
+- Black Mesa: Definitive Edition – Build 26713286
+- Saloon Simulator – v1.0-17904
 - ……
 
 ## 感谢
